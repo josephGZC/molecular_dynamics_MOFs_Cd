@@ -2,7 +2,7 @@
 
 Contents
 - [Overview](#overview)
-- [Python Scripts](#python scripts)
+- [Python Scripts](#python-scripts)
 
 ## Overview
 **Cadmium contamination** in water sources poses significant health and environmental risks, being linked to diseases like breast and lung cancer, bronchiolitis, and cerebral infection. Considering this, constant investigation on Cd(II) removal is essential.  Among water purification techniques, adsorption is most promising due to its cost-effectiveness, mild operating conditions, and high efficiency. Metal-organic frameworks (MOFs) have emerged as promising adsorbent, offering high porosity, ultrahigh surface area, and customizable functionalities, making them ideal for water purification.
