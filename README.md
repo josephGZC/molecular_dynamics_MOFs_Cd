@@ -4,8 +4,10 @@
 
 **UiO-66**, a Zr-based MOF with exceptional aqueous stability, has demonstrated significant potential in water treatment. Composed of Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> metal clusters connected by 1,4-benzedicarboxylic acid (BDC) linkers, UiO-66 exhibits a robust structure ideal for heavy metal adsorption. Functional derivatives of UiO-66, such as UiO-66-NH<sub>2</sub>, have shown remarkable improvements in adsorption capacity, attributed to enhanced local electron density from functional groups like amino groups. Despite this progress, derivatives featuring hydroxyl and carboxylic groups remain underexplored for cadmium uptake. This study aims to address this gap by evaluating the cadmium adsorption performance of UiO-66-(OH) and UiO-66-(COOH) derivatives using molecular dynamics simulations. The research further seeks to analyze their adsorption mechanisms through distribution profiles, mobility analysis, radial distribution functions, and adsorption energy, providing insights into their viability for water purification applications.
 
-<div align="center;">
-  <img src="https://github.com/user-attachments/assets/5dcf5770-a601-4791-964e-0efe4f0d04ca" alt="uio66-components" width="800">
-</div>
+
+**Align center:**
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/user-attachments/assets/5dcf5770-a601-4791-964e-0efe4f0d04ca">
+</p>
 
 Figure 1.1. The components (left) and unit cell (right) of UiO-66, where Zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr6O4(OH)4 are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
