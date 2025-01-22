@@ -1,6 +1,6 @@
 # **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives using Molecular Dynamics**
 
-## Table of Contents
+Contents
 - [Overview](#overview)
 - [Python Scripts](#python scripts)
 
