@@ -23,7 +23,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/1c1a2328-6dc4-4de1-bdf7-96653db6515c">
 </p>
-**Figure 2. ** System snapshot showing UiO-66 packed with water (light blue sphere connected to white spheres) and Cd(II) (yellow spheres). In the MOF region, zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively.The metal cluster nodes Zr6O4(OH)4 are represented by blue polyhedra.
+**Figure 2**. System snapshot showing UiO-66 packed with water (light blue sphere connected to white spheres) and Cd(II) (yellow spheres). In the MOF region, zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively.The metal cluster nodes Zr6O4(OH)4 are represented by blue polyhedra.
 
 ## Simulation Analysis
 In analyzing the adsorption performance of the investigated MOFs, the amount of Cd adsorbed and the mechanism of adsorption is explored. The performance was evaluated by counting the number of Cd atoms found inside the MOFs, while adsorption behavior was explored by looking into coordinate position and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files whie seaborn was employed to generate plots. 
