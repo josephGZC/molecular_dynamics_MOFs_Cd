@@ -1,4 +1,4 @@
-![fig_cd_plots_coo_batch_2](https://github.com/user-attachments/assets/e62560ea-894b-42f3-99ae-5b6fa7da16fd)![fig_cd_plots_h_oh_cooh_batch_2](https://github.com/user-attachments/assets/f1fef1d0-1a80-4c7b-acd3-0af61d967cea)# **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives using Molecular Dynamics**
+# **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives using Molecular Dynamics**
 
 Contents
 - [Overview](#overview)
