@@ -2,8 +2,7 @@
 
 The following repository contains some of the jupyter lab python scripts I used in the simulation of UiO-66 and cadmium.
 
-**Contents**
-- [Overview](#overview)
+**Contents** - [Overview](#overview)
 - [Python Scripts](#python-scripts)
 
 ## Overview
