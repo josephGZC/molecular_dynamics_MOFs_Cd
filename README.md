@@ -56,13 +56,17 @@ From all the simulations, the number of Cd(II) atoms within the MOF region and t
     <img width="60%" src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2">
 </p>
 
-**Figure 3**. Number of Cd(II) atoms adsorbed by UiO-66, UiO-66-OH, and UiO-66-COOH at different initial Cd(II) content. Specifically, the total initial count are (a-c) 100 and (d-f) 150 atoms.
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 3</strong>. Number of Cd(II) atoms adsorbed by UiO-66, UiO-66-OH, and UiO-66-COOH at different initial Cd(II) content. Specifically, the total initial count are (a-c) 100 and (d-f) 150 atoms.
+</p>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e">
 </p>
 
-**Figure 4**. Number of Cd(II) atoms adsorbed by UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content. Specifically, the total initial count are (a-c) 100 and (d-f) 150 atoms.
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 4</strong>. Number of Cd(II) atoms adsorbed by UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content. Specifically, the total initial count are (a-c) 100 and (d-f) 150 atoms.
+</p>
 
 When calculating percent removal in the system with initial Cd(II) atoms equal to 100, more than one MOF tied with the highest percent removal (Fig. 3). In that series, UiO-66-(COOH)<sub>2</sub> and UiO-66-(COOH)<sub>4</sub> achieved slightly higher percent removal values compared to the other MOFs. UiO-66-(COOH)<sub>4</sub> achieved slightly higher percent removal in 25 and 150 initial Cd(II) content. The highest percent removal obtained for UiO-66-(COOH)<sub>4</sub> was 88%.
 
