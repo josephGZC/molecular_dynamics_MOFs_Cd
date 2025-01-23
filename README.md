@@ -8,6 +8,7 @@ The following repository contains some of the jupyter lab python scripts I used 
 - [Overview](#overview)
 - [Simulation Setup](#simulation-setup)
 - [Simulation Analysis](#simulation-analysis)
+- [Conclusion](#conclusion)
 
 🐍 Python Scripts
 * [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
@@ -166,6 +167,7 @@ Radial distribution function of Cd(II) against all the carboxylic acid derivativ
 </p>
 
 ### D. Conclusion
+[[back to contents](#contents)]
 
 Molecular dynamics simulations demonstrated the potential of UiO-66 derivatives as effective adsorbents for Cd(II) ions. When comparing the performance of the carboxylic derivatives of UiO-66, it was UiO-66-(COOH)<sub>4</sub> that achieved slightly better percent removal values. A more pronounced difference in performance was observed in the calculation of water percent removal. A clear trend emerged wherein water percent removal decreased as the number of carboxylic acid substituents increased. Thus, UiO-66-(COOH)<sub>4</sub> exhibited remarkable Cd(II) percent removal (up to 88%) while minimizing water uptake. Radial distribution functions revealed that the hydration of cadmium within MOFs plays a critical role in the adsorption process via hydrogen bonding. Additionally, the preference of Cd(II) towards electrostatic interaction with the oxygen atoms of the carboxylic acid substituent relay the importance of incorporating negatively charged groups to enhance MOF performance.
 
