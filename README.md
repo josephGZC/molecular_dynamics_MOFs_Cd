@@ -43,10 +43,9 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
     <strong>Figure 2.</strong> line System snapshot showing UiO-66 packed with water (light blue sphere connected to white spheres) and Cd(II) (yellow spheres). In the MOF region, zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.
 </div>
 
-<figure>
-  <img src="https://github.com/user-attachments/assets/1c1a2328-6dc4-4de1-bdf7-96653db6515c" alt="my alt text"/>
-  <figcaption>This is my caption text.</figcaption>
-</figure>
+> This is a blockquote. 
+> It appears indented and spans less width compared to normal text. 
+> You can use it to highlight or emphasize certain sections.
 
 ## Simulation Analysis
 [[back to contents](#contents)]
