@@ -38,7 +38,7 @@ This study aims to evaluate cadmium adsorption performance of UiO-66 and its hyd
 > * Carbohydrates are polymers of sugars. </br>
 > * DNA are polymers of nucleotides. </br>
 > * MOFs are polymers of metals and organic compounds. </br>
-> * UiO-66 is a polymer of Zr clusters and BDC linkers
+> * UiO-66 (a MOF) is a polymer of Zr clusters and BDC linkers
 
 ## Simulation Setup
 [[back to contents](#contents)]
