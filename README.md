@@ -16,7 +16,8 @@ Contents
 Figure 1.1. The components (left) and unit cell (right) of UiO-66, where Zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr6O4(OH)4 are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
 
 ## Python Scripts
-Several python scripts were created to analyze the traectory output from the simulations. Only the python scripts used to analyze percent removal, density map, radial distribution function are presented here.
+Several python scripts were created to analyze the traectory output from the simulations. Only the python scripts used to analyze percent removal, density map, radial distribution function are presented here. Pandas was used to process CSV files whie seaborn was used to generate plots. 
+
 * [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
 * [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
 * [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb)
