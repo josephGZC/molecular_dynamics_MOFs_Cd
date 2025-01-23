@@ -84,14 +84,18 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
     <img width="60%" src="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25">
 </p>
 
-**Figure 5**. Percent removal of Cd(II) atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 5</strong>. Percent removal of Cd(II) atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.
+</p>
+
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/1258490a-2e36-4652-b691-d6ceb5904bb0">
 </p>
 
-**Figure 6**. Percent removal of water atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.
-
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 6</strong>. Percent removal of water atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.
+</p>
 
 ### B. Guest Molecule Distribution 
 
@@ -99,14 +103,18 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
     <img width="60%" src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319">
 </p>
 
-**Figure 7**. Heatmap showing the distribution of Cd(II) atoms within the simulation box where initial Cd(II) count is 100 atoms. Dashed lines indicate the boundary between the empty region and the MOF: (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, (d) UiO-66-(COOH)<sub>4</sub>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 7</strong>. Heatmap showing the distribution of Cd(II) atoms within the simulation box where initial Cd(II) count is 100 atoms. Dashed lines indicate the boundary between the empty region and the MOF: (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, (d) UiO-66-(COOH)<sub>4</sub>
+</p>
 
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4">
 </p>
 
-**Figure 8**. Heatmap showing the distribution of water atoms within the simulation box where initial Cd(II) count is 100 atoms. Dashed lines indicate the boundary between the empty region and the MOF: (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, (d) UiO-66-(COOH)<sub>4</sub>
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 8</strong>. Heatmap showing the distribution of water atoms within the simulation box where initial Cd(II) count is 100 atoms. Dashed lines indicate the boundary between the empty region and the MOF: (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, (d) UiO-66-(COOH)<sub>4</sub>
+</p>
 
 ### C. MOF Atom Preference
 
@@ -114,10 +122,15 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
     <img width="60%" src="https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4">
 </p>
 
-**Figure 9**. Radial distribution function of Cd(II) around the framework atoms of (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, and (d) UiO-66-(COOH)<sub>4</sub> at initial Cd(II) content of 100 atoms. O1 and C1 pertain to oxygen atoms of the metal nodes and to carbon atoms of the benzene linkers, respectively. O2 and C2 pertain to the oxygen and carbon atoms of the substituted carboxylic groups.
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 9</strong>. Radial distribution function of Cd(II) around the framework atoms of (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, and (d) UiO-66-(COOH)<sub>4</sub> at initial Cd(II) content of 100 atoms. O1 and C1 pertain to oxygen atoms of the metal nodes and to carbon atoms of the benzene linkers, respectively. O2 and C2 pertain to the oxygen and carbon atoms of the substituted carboxylic groups.
+</p>
+
 
 <p align="center" width="100%">
     <img width="59.6%" src="https://github.com/user-attachments/assets/670ffb80-35cc-47b8-925a-9a1308a45f70">
 </p>
 
-**Figure 10**. Radial distribution function (left y-axis) of Cd(II) around oxygen atoms of substituted carboxylic groups of (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, and (d) UiO-66-(COOH)<sub>4</sub> at initial Cd(II) content of 100 atoms. O<sub>W</sub> and H<sub>W</sub> pertains to oxygen and hydrogen atoms of water, respectively. Coordination number (right y-axis) of water with Cd(II) represented by blue dashed lines.
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 10</strong>.  Radial distribution function (left y-axis) of Cd(II) around oxygen atoms of substituted carboxylic groups of (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, and (d) UiO-66-(COOH)<sub>4</sub> at initial Cd(II) content of 100 atoms. O<sub>W</sub> and H<sub>W</sub> pertains to oxygen and hydrogen atoms of water, respectively. Coordination number (right y-axis) of water with Cd(II) represented by blue dashed lines.
+</p>
