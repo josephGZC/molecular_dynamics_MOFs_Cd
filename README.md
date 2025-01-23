@@ -41,5 +41,5 @@ The current repository contains some of the scripts used for this study. Specifi
     <img width="60%" src="https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4">
 </p>
 <p align="center" width="100%">
-    <img width="59.5%" src="https://github.com/user-attachments/assets/670ffb80-35cc-47b8-925a-9a1308a45f70">
+    <img width="59.6%" src="https://github.com/user-attachments/assets/670ffb80-35cc-47b8-925a-9a1308a45f70">
 </p>
