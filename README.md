@@ -8,6 +8,7 @@ Sections
 - [Overview](#overview)
 - [Simulation Setup](#simulation-setup)
 - [Simulation Analysis](#simulation-analysis)
+
 Scripts
 * [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
 * [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
