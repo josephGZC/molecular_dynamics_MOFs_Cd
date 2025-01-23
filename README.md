@@ -124,8 +124,8 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
 
 Further inspection of the behavior of Cd and water entry into the MOFs was conducted by preparing distribution heatmaps as shown in Fig. 7 and 8. The distribution of Cd(II) (Fig. 7) shows that the atoms penetrate to the center of all the MOFs. However, no clear trend was observed in the amount of Cd(II) atoms entering the MOF with the number of carboxylic acid substitutions on the BDC linkers. Meanwhile, the distribution of water molecules (Fig.8) indicates a decrease in water reaching the center of the MOFs from UiO-66-COOH to UiO-66-(COOH)<sub>4</sub>. The high concentration of water at the MOF edges suggests an attraction to the MOF region, though the pore size of the MOFs influences the extent of entry. The results suggest that Cd(II) penetration is not significantly influenced by the decreasing pore size from UiO-66-COOH to UiO-66-(COOH)<sub>4</sub>, which is likely due to its small ionic radius. In contrast, the observed reduction in water entry into the MOFs is likely attributed to the relatively larger molecular diameter (2.8 \AA) of water, which limits its ability to penetrate the narrower pores. 
 
-> 🟨 Where are the Cd atoms located inside the MOFs? ➡️ Cd atoms penetrated all the way to the center of all the MOFs </br>
-> 🟨 Where are the water atoms located inside the MOFs? ➡️ Water atoms penetrated all the way to the center of all the MOFs, but most are stuck at the MOF edges because of the larger size of water </br>
+> 🟨 Where are the Cd atoms located inside the MOFs? ➡️ Cd atoms penetrated all the way to the center of all the MOFs.
+> 🟨 Where are the water atoms located inside the MOFs? ➡️ Water atoms penetrated all the way to the center of all the MOFs, but most are stuck at the MOF edges because of the larger size of water.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319">
