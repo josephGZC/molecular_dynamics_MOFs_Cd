@@ -47,11 +47,14 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of Cd
     <img width="60%" src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2">
 </p>
 
-**Figure 3**. Number of Cd(II) atoms adsorbed by UiO-66, UiO-66-OH, and UiO-66-COOH at different initial Cd(II) content. Specifically, the total initial count are (a-c) 25 and (d-f) 50 atoms.
+**Figure 3**. Number of Cd(II) atoms adsorbed by UiO-66, UiO-66-OH, and UiO-66-COOH at different initial Cd(II) content. Specifically, the total initial count are (a-c) 100 and (d-f) 150 atoms.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e">
 </p>
+
+**Figure 4**. Number of Cd(II) atoms adsorbed by UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content. Specifically, the total initial count are (a-c) 100 and (d-f) 150 atoms.
+
 
 ### Density Map
 
