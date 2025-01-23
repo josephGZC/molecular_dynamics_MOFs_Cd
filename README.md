@@ -9,7 +9,7 @@ The following repository contains some of the jupyter lab python scripts I used 
 - [Simulation Analysis](#simulation-analysis)
 
 ## Overview
-[Back to Contents](#contents)
+[back to contents](#contents)
 
 Cadmium contamination in water sources poses significant health and environmental risks, being linked to diseases like breast and lung cancer, bronchiolitis, and cerebral infection. Considering this, constant investigation on Cd(II) removal from water is essential.  Among water purification techniques, adsorption is most promising due to its cost-effectiveness, mild operating conditions, and high efficiency. [Metal-organic frameworks (MOFs)](https://doi.org/10.3390/polym14112183) have emerged as promising adsorbents, offering high porosity, ultrahigh surface area, and customizable functionalities.
 
