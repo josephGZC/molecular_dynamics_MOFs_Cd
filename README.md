@@ -16,4 +16,7 @@ Contents
 Figure 1.1. The components (left) and unit cell (right) of UiO-66, where Zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr6O4(OH)4 are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
 
 ## Python Scripts
-The current repository contains some of the scripts used for this study. Specifically the python scripts that analyze percent removal, radial distribution function, and coordinate density
+The current repository contains some of the scripts used for this study. Specifically the python scripts that analyze percent removal, radial distribution function, and coordinate density.
+
+![fig_density_heatmaps_water_cd100](https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4)
+![fig_density_heatmaps_cd_cd100](https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319)
