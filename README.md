@@ -1,4 +1,4 @@
-# **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives using Molecular Dynamics**
+![fig_cd_plots_coo_batch_2](https://github.com/user-attachments/assets/e62560ea-894b-42f3-99ae-5b6fa7da16fd)![fig_cd_plots_h_oh_cooh_batch_2](https://github.com/user-attachments/assets/f1fef1d0-1a80-4c7b-acd3-0af61d967cea)# **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives using Molecular Dynamics**
 
 Contents
 - [Overview](#overview)
@@ -17,6 +17,17 @@ Figure 1.1. The components (left) and unit cell (right) of UiO-66, where Zirconi
 
 ## Python Scripts
 The current repository contains some of the scripts used for this study. Specifically the python scripts that analyze percent removal, radial distribution function, and coordinate density.
+
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2">
+</p>
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e">
+</p>
+
+
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4" alt="Image 1" width="300">
