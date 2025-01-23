@@ -49,7 +49,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
     The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.
 </p>
 
-> The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
+> 🛠️ The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
 
 ## Simulation Analysis
 [[back to contents](#contents)]
