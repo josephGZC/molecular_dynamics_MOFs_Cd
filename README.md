@@ -21,8 +21,8 @@ Cadmium contamination in water sources poses significant health and environmenta
 
 <p align="center" style="font-size: 30%;">
     <strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where zirconium, oxygen,<br/>
-    carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, <br/> respectively.
-    The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral <br/>
+    carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, <br/> 
+    respectively. The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral <br/>
     and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
 </p>
 
@@ -38,9 +38,9 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 
 <p align="center" style="font-size: 30%;">
     <strong>Figure 2</strong>. System snapshot showing UiO-66 packed with water (light blue sphere connected to <br/>
-    white spheres) and Cd(II) (yellow spheres). In the MOF region, zirconium, oxygen, carbon, and <br/> hydrogen atoms  
-    are represented by blue, red, dark gray, and light gray spheres, respectively. <br/> The metal cluster 
-    nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.
+    white spheres) and Cd(II) (yellow spheres). In the MOF region, zirconium, oxygen, carbon, and <br/> 
+    hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. <br/> 
+    The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.
 </p>
 
 
@@ -85,8 +85,9 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
 </p>
 
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 5</strong>. Percent removal of Cd(II) atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>,  
-    UiO-66-(COOH)<sub>3</sub>, <br/> and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms,   (c) 100 atoms, <br/> and (d) 150 atoms.
+    <strong>Figure 5</strong>. Percent removal of Cd(II) atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, <br/> 
+    and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, <br/> 
+    and (d) 150 atoms.
 </p>
 
 <p align="center" width="100%">
@@ -94,7 +95,9 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
 </p>
 
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 6</strong>. Percent removal of water atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.
+    <strong>Figure 6</strong>. Percent removal of water atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, <br/> 
+    and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, <br/> 
+    and (d) 150 atoms.
 </p>
 
 ### B. Guest Molecule Distribution 
