@@ -3,7 +3,8 @@
 The following repository contains some of the jupyter lab python scripts I used in the simulation of UiO-66 and cadmium.
 
 <a name="contents"></a>
-**Contents** 
+### **Contents** 
+
 Sections
 - [Overview](#overview)
 - [Simulation Setup](#simulation-setup)
