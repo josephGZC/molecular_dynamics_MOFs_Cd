@@ -4,9 +4,14 @@ The following repository contains some of the jupyter lab python scripts I used 
 
 <a name="contents"></a>
 **Contents** 
+Sections
 - [Overview](#overview)
 - [Simulation Setup](#simulation-setup)
 - [Simulation Analysis](#simulation-analysis)
+Scripts
+* [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
+* [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
+* [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb)
 
 ## Overview
 [[back to contents](#contents)]
