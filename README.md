@@ -82,4 +82,4 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of Cd
     <img width="59.6%" src="https://github.com/user-attachments/assets/670ffb80-35cc-47b8-925a-9a1308a45f70">
 </p>
 
-**Figure 8**. Radial distribution function (left y-axis) of Cd(II) around oxygen atoms of substituted carboxylic groups of (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, and (d) UiO-66-(COOH)<sub>4</sub> at initial Cd(II) content of 100 atoms. O$_\text{W}$ and H$_\text{W}$ pertains to oxygen and hydrogen atoms of water, respectively. Coordination number (right y-axis) of water with Cd(II) represented by blue dashed lines.
+**Figure 8**. Radial distribution function (left y-axis) of Cd(II) around oxygen atoms of substituted carboxylic groups of (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, and (d) UiO-66-(COOH)<sub>4</sub> at initial Cd(II) content of 100 atoms. O<sub>W</sub> and H<sub>W</sub> pertains to oxygen and hydrogen atoms of water, respectively. Coordination number (right y-axis) of water with Cd(II) represented by blue dashed lines.
