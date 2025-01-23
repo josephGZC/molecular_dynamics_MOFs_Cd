@@ -26,7 +26,6 @@ Cadmium contamination in water sources poses significant health and environmenta
     and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
 </p>
 
-> [!NOTE]
 > Polymers are simply the combination of single chemical units.
 > Carbohydrates are polymers of water and carbon.
 > DNA are polymers of nucleuic acids.
