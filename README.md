@@ -18,6 +18,8 @@ Figure 1.1. The components (left) and unit cell (right) of UiO-66, where Zirconi
 ## Python Scripts
 The current repository contains some of the scripts used for this study. Specifically the python scripts that analyze percent removal, radial distribution function, and coordinate density.
 
+[Open the Data File](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
+
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2">
