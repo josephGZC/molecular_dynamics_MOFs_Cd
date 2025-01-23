@@ -76,9 +76,9 @@ From all the simulations, the number of Cd(II) atoms within the MOF region and t
     UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content. Specifically, the total initial count <br/> are (a-c) 100 and (d-f) 150 atoms.
 </p>
 
-When calculating percent removal in the system with initial Cd(II) atoms equal to 100, more than one MOF tied with the highest percent removal (Fig. 3). In that series, UiO-66-(COOH)<sub>2</sub> and UiO-66-(COOH)<sub>4</sub> achieved slightly higher percent removal values compared to the other MOFs. UiO-66-(COOH)<sub>4</sub> achieved slightly higher percent removal in 25 and 150 initial Cd(II) content. The highest percent removal obtained for UiO-66-(COOH)<sub>4</sub> was 88%.
+When calculating percent removal in the system with initial Cd(II) atoms equal to 100, more than one MOF tied with the highest percent removal (Fig. 5). In that series, UiO-66-(COOH)<sub>2</sub> and UiO-66-(COOH)<sub>4</sub> achieved slightly higher percent removal values compared to the other MOFs. UiO-66-(COOH)<sub>4</sub> achieved slightly higher percent removal in 25 and 150 initial Cd(II) content. The highest percent removal obtained for UiO-66-(COOH)<sub>4</sub> was 88%.
 
-Besides percent removal of Cd(II), percent removal of water was also explored as shown in Fig. 4. In this case, lower water adsorption is the desired outcome. Interestingly, while a distinct trend was not evident for Cd(II) percent removal across the incremental increase of carboxylic acid groups, a notable decrease in water adsorption was observed from UiO-66-(COOH) to UiO-66-(COOH)<sub>4</sub>. Given the significant difference in water percent removal across the investigated MOFs, UiO-66-(COOH)<sub>4</sub> is particularly effective at adsorbing Cd(II) while minimizing water uptake.
+Besides percent removal of Cd(II), percent removal of water was also explored as shown in Fig. 6. In this case, lower water adsorption is the desired outcome. Interestingly, while a distinct trend was not evident for Cd(II) percent removal across the incremental increase of carboxylic acid groups, a notable decrease in water adsorption was observed from UiO-66-(COOH) to UiO-66-(COOH)<sub>4</sub>. Given the significant difference in water percent removal across the investigated MOFs, UiO-66-(COOH)<sub>4</sub> is particularly effective at adsorbing Cd(II) while minimizing water uptake.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25">
@@ -87,7 +87,6 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
 <p align="center" style="font-size: 30%;">
     <strong>Figure 5</strong>. Percent removal of Cd(II) atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.
 </p>
-
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/1258490a-2e36-4652-b691-d6ceb5904bb0">
@@ -98,6 +97,8 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
 </p>
 
 ### B. Guest Molecule Distribution 
+
+Further inspection of the behavior of Cd and water entry into the MOFs was conducted by preparing distribution heatmaps as shown in Fig. 7 and 8. The distribution of Cd(II) (Fig. 7) shows that the atoms penetrate to the center of all the MOFs. However, no clear trend was observed in the amount of Cd(II) atoms entering the MOF with the number of carboxylic acid substitutions on the BDC linkers. Meanwhile, the distribution of water molecules (Fig.8) indicates a decrease in water reaching the center of the MOFs from UiO-66-COOH to UiO-66-(COOH)<sub>4</sub>. The high concentration of water at the MOF edges suggests an attraction to the MOF region, though the pore size of the MOFs influences the extent of entry. The results suggest that Cd(II) penetration is not significantly influenced by the decreasing pore size from UiO-66-COOH to UiO-66-(COOH)<sub>4</sub>, which is likely due to its small ionic radius. In contrast, the observed reduction in water entry into the MOFs is likely attributed to the relatively larger molecular diameter (2.8 \AA) of water \cite{d1978screening}, which limits its ability to penetrate the narrower pores. 
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319">
