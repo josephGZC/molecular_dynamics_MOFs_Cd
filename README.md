@@ -20,10 +20,10 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
 </p>
 
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where zirconium, oxygen, carbon, <br/>
-    and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, 
-    respectively. <br/>  The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral <br/>
-    and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
+    <strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where zirconium, oxygen, carbon, and <br/>
+    hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. <br/>  
+    The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral
+    and octahedral <br/> holes of UiO-66 are represented by pink and orange spheres, respectively.
 </p>
 
 This study aims to evaluate cadmium adsorption performance of UiO-66 and its hydroxyl and carboxylic derivatives (UiO-66-(OH) and UiO-66-(COOH)) using molecular dynamics simulations, wherein the functional group attachment affects the local electron density of the MOFs and subsequent attraction with Cd. The research further seeks to analyze their adsorption mechanisms through distribution profiles, mobility analysis, radial distribution functions, and adsorption energy, providing insights into their viability for water purification applications.
