@@ -135,7 +135,7 @@ Further inspection of the behavior of Cd and water entry into the MOFs was condu
     <strong>Figure 9</strong>. Radial distribution function of Cd(II) around the framework atoms of (a) UiO-66-(COOH), (b) UiO-66-(COOH)<sub>2</sub>, <br/> 
     (c) UiO-66-(COOH)<sub>3</sub>, and (d) UiO-66-(COOH)<sub>4</sub> at initial Cd(II) content 
     of 100 atoms. O1 and C1 pertain to oxygen <br/> atoms of the metal nodes and to carbon atoms of the benzene linkers, respectively. 
-    O2 and C2 <br/> pertain to the oxygen and carbon atoms of the substituted carboxylic groups.
+    O2 and C2 pertain to <br/> the oxygen and carbon atoms of the substituted carboxylic groups.
 </p>
 
 
