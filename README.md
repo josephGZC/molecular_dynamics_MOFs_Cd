@@ -35,7 +35,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 ## Simulation Analysis
 [[back to contents](#contents)]
 
-In analyzing the adsorption of the investigated MOFs, the <ins>performance of Cd adosprtion</ins> and the mechanism of adsorption is explored. The performance was evaluated by counting the number of Cd atoms found inside the MOFs, while adsorption behavior was explored by looking into coordinate position and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files whie seaborn was employed to generate plots. 
+In analyzing the adsorption of the investigated MOFs, the <ins>performance of Cd adosprtion</ins> and the <ins>mechanism of adsorption</ins> is explored. The performance was evaluated by counting the number of Cd atoms found inside the MOFs, while adsorption behavior was explored by looking into coordinate position and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files whie seaborn was employed to generate plots. 
 
 * [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
 * [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
