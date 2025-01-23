@@ -17,8 +17,15 @@ Contents
 
 Figure 1.1. The components (left) and unit cell (right) of UiO-66, where Zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr6O4(OH)4 are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
 
+## Simulation Set-up
+The MOF was positioned at the center of the simulation box as shown in A non-MOF region extends 20 Å from the negative and positive z-axes of the MOFs, which is referred to as the empty region.  For each MOF, four systems were packed with different Cd(II) number densities and equal number of water molecules using the \textit{create-atoms} module of LAMMPS.  Water molecules were randomly inserted throughout the entire system, while Cd(II) insertion was restricted to the empty region.
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/1c1a2328-6dc4-4de1-bdf7-96653db6515c">
+</p>
+
 ## Simulation Analysis
-In analyzing the adsorption performance of the investigated MOFs, the amount of Cd adsorbed and the mechanism of adsorption is explored. The performance was evaluated by counting the number of Cd atoms found inside the MOFs, while adsorption behavior was explored by looking into coordinate position and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files whie seaborn was used to generate plots. 
+In analyzing the adsorption performance of the investigated MOFs, the amount of Cd adsorbed and the mechanism of adsorption is explored. The performance was evaluated by counting the number of Cd atoms found inside the MOFs, while adsorption behavior was explored by looking into coordinate position and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files whie seaborn was employed to generate plots. 
 
 * [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
 * [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
