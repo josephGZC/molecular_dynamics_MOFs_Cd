@@ -22,14 +22,6 @@ The current repository contains some of the scripts used for this study. Specifi
 * [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb)
 
 ### Percent Removal
-
-
-### Density Map
-
-
-### Radial Distribution Function
-
-
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2">
 </p>
@@ -38,10 +30,12 @@ The current repository contains some of the scripts used for this study. Specifi
     <img width="60%" src="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e">
 </p>
 
-
-
+### Density Map
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4" alt="Image 1" width="300">
   <img src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319" alt="Image 2" width="300">
 </div>
 
+### Radial Distribution Function
+![rdf_cd100_merged_rep_rdf](https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4)
+![rdf_subplots_cd100](https://github.com/user-attachments/assets/670ffb80-35cc-47b8-925a-9a1308a45f70)
