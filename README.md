@@ -37,5 +37,9 @@ The current repository contains some of the scripts used for this study. Specifi
 </div>
 
 ### Radial Distribution Function
-![rdf_cd100_merged_rep_rdf](https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4)
-![rdf_subplots_cd100](https://github.com/user-attachments/assets/670ffb80-35cc-47b8-925a-9a1308a45f70)
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4">
+</p>
+<p align="center" width="100%">
+    <img width="58%" src="https://github.com/user-attachments/assets/670ffb80-35cc-47b8-925a-9a1308a45f70">
+</p>
