@@ -38,11 +38,11 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 In analyzing the adsorption of the investigated MOFs, the <ins>performance of adosprtion</ins> and the <ins>mechanism of adsorption</ins> is explored. The performance was evaluated by counting the number of Cd atoms and water molecules found inside the MOFs, and subsequent calculation of  percent removal (i.e. percent of substance removed from the solution). A better-performing MOF correspond to adsorbing more Cd atoms (higher Cd percent removal) and adsoring less water molecules (lower water percent removal). Adsorption behavior was explored by looking into guest molecule (Cd or water) distribution and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files while seaborn was employed to generate plots. 
 
 **Analysis Flow Guide**
-* Determine adsorption performance from [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
-* Determine guest molecule (Cd or Water) distribution [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
-* Determine MOF atom interaction preference from [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb) 
+(A) Determine adsorption performance from [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
+(B) Determine guest molecule (Cd or Water) distribution [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
+(C) Determine MOF atom interaction preference from [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb) 
 
-### Adsorption performance
+### (A) Adsorption performance
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2">
@@ -69,7 +69,7 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of ad
 **Figure 6**. Percent removal of water atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.
 
 
-### Guest Molecule Distribution 
+### (B) Guest Molecule Distribution 
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319">
@@ -84,7 +84,7 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of ad
 
 **Figure 8**. Heatmap showing the distribution of water atoms within the simulation box where initial Cd(II) count is 100 atoms. Dashed lines indicate the boundary between the empty region and the MOF: (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, (d) UiO-66-(COOH)<sub>4</sub>
 
-### MOF Atom Preference
+### (C) MOF Atom Preference
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4">
