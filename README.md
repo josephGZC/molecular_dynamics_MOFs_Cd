@@ -109,8 +109,8 @@ Further inspection of the behavior of Cd and water entry into the MOFs was condu
 </p>
 
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 7</strong>. Heatmap showing the distribution of Cd(II) atoms within the simulation box where initial Cd(II) count <br/> 
-    is 100 atoms. Dashed lines indicate the boundary between the empty region and the MOF: (a) UiO-66-(COOH), <br/>
+    <strong>Figure 7</strong>. Heatmap showing the distribution of Cd(II) atoms within the simulation box where <br/> initial Cd(II) count 
+    is 100 atoms. Dashed lines indicate the boundary between the empty region and the MOF: <br/> (a) UiO-66-(COOH), 
     (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, (d) UiO-66-(COOH)<sub>4</sub>
 </p>
 
