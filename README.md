@@ -72,7 +72,7 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of ad
 
 From all the simulations, the number of Cd(II) atoms within the MOF region and the empty region were plotted as a function of time as shown in Fig. 3 and 4. This was presented for all MOFs across varying initial Cd(II) concentration. The results show that after an abrupt entry of Cd(II) into the MOF region within the 1-ns mark, further adsorption showed only minor fluctuations. In all cases, Cd(II) concentration remained consistently higher in the MOF region compared to the empty region until the simulation endpoint. These observations demonstrate that Cd(II) has an affinity for adsorption onto the MOFs, suggesting that their passage into the MOF is driven by more than just the initial concentration gradient.
 
-> 🟨 Where the Cd atoms adsrobed to the MOFs? ➡️ Yes, Cd atoms immediately entered the MOFs and remained there until the end of the simulation.
+> 🟨 Where the Cd atoms adsrobed to the MOFs? ➡️ Yes, Cd atoms entered the MOFs and remained there until the end of the simulation.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2">
