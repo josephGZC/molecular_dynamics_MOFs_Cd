@@ -152,7 +152,7 @@ Further inspection of the behavior of Cd and water entry into the MOFs was condu
 Radial distribution function of Cd(II) against all the carboxylic acid derivatives of UiO-66 were prepared as shown in Fig.9. Across all RDF plots, the closest peak appears around 1.7 Å, corresponding to the oxygen atoms in the carboxylic group (labeled O2 in Fig.9). This observation suggests that Cd(II) tends to remain in close proximity to this group, which indicates that electrostatic interaction between Cd(II) and oxygen atoms has significant contribution in the adsorption process. Cd(II) was also found to be within proximity of the oxygen atom in the metal nodes (represented as O1) but at a lower probability. This observation becomes less distinct with increasing carboxylic substitution as suggested by the gradual decrease of the blue and orange peaks in Fig.9, which further supports the preference of Cd(II) towards the oxygen atoms of the carboxylic groups in the BDC linkers.
 
 > 🟨 Which atom of the MOF is Cd closest to? ➡️ Oxygen atoms </br>
-> 🟨 What is the likely interaction between Cd and O> ➡️ Close proximity of postively charged Cd to negatively charged O atoms suggest electrostatic itneractions.
+> 🟨 What is the likely interaction between Cd and O? ➡️ Close proximity of postively charged Cd to negatively charged O atoms suggest electrostatic itneraction.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4">
