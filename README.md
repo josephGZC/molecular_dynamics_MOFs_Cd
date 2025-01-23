@@ -19,7 +19,10 @@ Cadmium contamination in water sources poses significant health and environmenta
     <img width="60%" src="https://github.com/user-attachments/assets/5dcf5770-a601-4791-964e-0efe4f0d04ca">
 </p>
 
-**Figure 1**. The components (left) and unit cell (right) of UiO-66, where Zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
+<p align="center" style="font-size: 30%;">
+    <strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where Zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
+</p>
+
 
 ## Simulation Setup
 [[back to contents](#contents)]
@@ -30,7 +33,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
     <img width="60%" src="https://github.com/user-attachments/assets/1c1a2328-6dc4-4de1-bdf7-96653db6515c">
 </p>
 
-<p align="center" style="font-size: -30%;">
+<p align="center" style="font-size: 30%;">
     <strong>Figure 2</strong>. System snapshot showing UiO-66 packed with water (light blue sphere connected to white spheres) and Cd(II) (yellow spheres). In the MOF region, zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.
 </p>
 
