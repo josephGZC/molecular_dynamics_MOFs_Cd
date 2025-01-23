@@ -96,9 +96,11 @@ When calculating percent removal in the system with initial Cd(II) atoms equal t
 
 Besides percent removal of Cd(II), percent removal of water was also explored as shown in Fig. 6. In this case, lower water adsorption is the desired outcome. Interestingly, while a distinct trend was not evident for Cd(II) percent removal across the incremental increase of carboxylic acid groups, a notable decrease in water adsorption was observed from UiO-66-(COOH) to UiO-66-(COOH)<sub>4</sub>. Given the significant difference in water percent removal across the investigated MOFs, UiO-66-(COOH)<sub>4</sub> is particularly effective at adsorbing Cd(II) while minimizing water uptake.
 
-> Are the MOFs siutable for Cd adsoprtion? Yes, becase Cd adsorption of all MOFs were high. </br>
-> Which among MOFs had highest adsorption for Cd? UiO-66-(COOH)<sub>4</sub> achieved slightly better results. </br>
-> Which among MOFs had the lowest adsorption for water? UiO-66-(COOH)<sub>4</sub> consistently excluded the entry of water molecules.
+> ❔ Are the MOFs siutable for Cd adsoprtion? </br>
+>     Yes, becase Cd adsorption of all MOFs were high. </br>
+> ❔ Which among MOFs had highest adsorption for Cd? </br>
+>     UiO-66-(COOH)<sub>4</sub> achieved slightly better results. </br>
+> ❔ Which among MOFs had the lowest adsorption for water? UiO-66-(COOH)<sub>4</sub> consistently excluded the entry of water molecules.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25">
