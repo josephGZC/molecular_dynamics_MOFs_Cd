@@ -4,7 +4,8 @@ The following repository contains some of the jupyter lab python scripts I used 
 
 **Contents** 
 - [Overview](#overview)
-- [Python Scripts](#python-scripts)
+- [Simulation Setup](#simulation-setup)
+- [Simulation Analysis](#simulation-analysis)
 
 ## Overview
 Cadmium contamination in water sources poses significant health and environmental risks, being linked to diseases like breast and lung cancer, bronchiolitis, and cerebral infection. Considering this, constant investigation on Cd(II) removal from water is essential.  Among water purification techniques, adsorption is most promising due to its cost-effectiveness, mild operating conditions, and high efficiency. [Metal-organic frameworks (MOFs)](https://doi.org/10.3390/polym14112183) have emerged as promising adsorbents, offering high porosity, ultrahigh surface area, and customizable functionalities.
@@ -17,7 +18,7 @@ Cadmium contamination in water sources poses significant health and environmenta
 
 **Figure 1**. The components (left) and unit cell (right) of UiO-66, where Zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
 
-## Simulation Set-up
+## Simulation Setup
 UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(OH), UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub>. MOFs were positioned at the center of the simulation box as shown in Figure 1. A non-MOF region extends 20 Å from the negative and positive z-axes of the MOFs, which is referred to as the empty region.  For each MOF, four systems were packed with different Cd(II) number densities and equal number of water molecules.  Water molecules were randomly inserted throughout the entire system, while Cd(II) insertion was restricted to the empty region.
 
 <p align="center" width="100%">
