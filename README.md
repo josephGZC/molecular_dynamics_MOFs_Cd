@@ -28,7 +28,7 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
 
 This study aims to evaluate cadmium adsorption performance of UiO-66 and its hydroxyl and carboxylic derivatives (UiO-66-(OH) and UiO-66-(COOH)) using molecular dynamics simulations, wherein the functional group attachment affects the local electron density of the MOFs and subsequent attraction with Cd. The research further seeks to analyze their adsorption mechanisms through distribution profiles, mobility analysis, radial distribution functions, and adsorption energy, providing insights into their viability for water purification applications.
 
-> Polymers are simply the combination of single chemical units. </br>
+> 🔗 Polymers are simply the combination of single chemical units. </br>
 > * Carbohydrates are polymers of water and carbon. </br>
 > * DNA are polymers of nucleuic acids. </br>
 > * MOFs are polymers of metals and organic compounds.
