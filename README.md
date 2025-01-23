@@ -165,6 +165,12 @@ Radial distribution function of Cd(II) against all the carboxylic acid derivativ
     the oxygen and carbon atoms of the substituted carboxylic groups.
 </p>
 
+### D. Conclusion
+
+Molecular dynamics simulations demonstrated the potential of UiO-66 derivatives as effective adsorbents for Cd(II) ions. When comparing the performance of the carboxylic derivatives of UiO-66, it was UiO-66-(COOH)<sub>4</sub> that achieved slightly better percent removal values. A more pronounced difference in performance was observed in the calculation of water percent removal. A clear trend emerged wherein water percent removal decreased as the number of carboxylic acid substituents increased. Thus, UiO-66-(COOH)<sub>4</sub> exhibited remarkable Cd(II) percent removal (up to 88%) while minimizing water uptake. Radial distribution functions revealed that the hydration of cadmium within MOFs plays a critical role in the adsorption process via hydrogen bonding. Additionally, the preference of Cd(II) towards electrostatic interaction with the oxygen atoms of the carboxylic acid substituent relay the importance of incorporating negatively charged groups to enhance MOF performance.
+
+The findings of this study suggest that UiO-66-(COOH)<sub>4</sub> is a promising candidate for cadmium removal from water. The results also provide valuable insights into Cd(II) interactions with specific functional groups, which could inform future functionalization of metal-organic frameworks for water purification. To enhance the current investigation, it is recommended to simulate a range of metal pollutants to assess specificity across contaminants. Additionally, increasing the size of the MOF in simulations could accommodate a wider range of initial metal concentrations. Finally, laboratory synthesis and testing of UiO-66-(COOH)<sub>4</sub> would provide essential experimental validation of its removal efficiency.
+
 <!-- This is commented out. 
 <p align="center" width="100%">
     <img width="59.6%" src="https://github.com/user-attachments/assets/670ffb80-35cc-47b8-925a-9a1308a45f70">
