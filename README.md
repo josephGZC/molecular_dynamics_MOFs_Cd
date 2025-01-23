@@ -85,7 +85,8 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
 </p>
 
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 5</strong>. Percent removal of Cd(II) atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.
+    <strong>Figure 5</strong>. Percent removal of Cd(II) atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>,  <br/> 
+    UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.
 </p>
 
 <p align="center" width="100%">
