@@ -39,7 +39,7 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of ad
 
 **Analysis Flow Guide**
 * Adsorption performance from [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
-* Coordinate position from [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
+* Guest molecule (Cd or Water) coordinate position from [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
 * MOF atom interaction preference from [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb) 
 
 ### Percent Removal
