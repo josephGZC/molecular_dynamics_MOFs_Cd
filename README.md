@@ -52,10 +52,14 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of Cd
 </p>
 
 ### Density Map
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4" alt="Image 1" width="300">
-  <img src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319" alt="Image 2" width="300">
-</div>
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319">
+</p>
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4">
+</p>
+
 
 ### Radial Distribution Function
 <p align="center" width="100%">
