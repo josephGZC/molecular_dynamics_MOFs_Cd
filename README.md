@@ -72,7 +72,7 @@ From all the simulations, the number of Cd(II) atoms within the MOF region and t
 </p>
 
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 4</strong>. Number of Cd(II) atoms adsorbed by UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and <br/> 
+    <strong>Figure 4</strong>. Number of Cd(II) atoms adsorbed by UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, <br/> and  
     UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content. Specifically, the total initial count <br/> are (a-c) 100 and (d-f) 150 atoms.
 </p>
 
