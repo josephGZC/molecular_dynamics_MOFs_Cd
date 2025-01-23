@@ -1,5 +1,7 @@
 # **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives using Molecular Dynamics**
 
+The following repository contains some of the jupyter lab python scripts I used in the simulation of UiO-66 and cadmium.
+
 Contents
 - [Overview](#overview)
 - [Python Scripts](#python-scripts)
@@ -16,13 +18,14 @@ Contents
 Figure 1.1. The components (left) and unit cell (right) of UiO-66, where Zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr6O4(OH)4 are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
 
 ## Simulation Analysis
-In analyzing the adsorption performance of the investigated MOFs, the amount of Cd adsorbed and the mechanism of adsorption is explored. The performance was evaluated by counting the number of Cd atoms found inside the MOFs, while adsorption behavior was explored by looking into coordinate position and atom preference. Several python scripts were created to analyze the trajectory output from the simulations. Only the python scripts used to analyze percent removal, density map, radial distribution function are presented here. Pandas was used to process CSV files whie seaborn was used to generate plots. 
+In analyzing the adsorption performance of the investigated MOFs, the amount of Cd adsorbed and the mechanism of adsorption is explored. The performance was evaluated by counting the number of Cd atoms found inside the MOFs, while adsorption behavior was explored by looking into coordinate position and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files whie seaborn was used to generate plots. 
 
 * [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
 * [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
-* [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb)
+* [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb) 
 
 ### Percent Removal
+
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2">
 </p>
