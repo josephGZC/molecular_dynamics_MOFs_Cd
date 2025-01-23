@@ -18,5 +18,8 @@ Figure 1.1. The components (left) and unit cell (right) of UiO-66, where Zirconi
 ## Python Scripts
 The current repository contains some of the scripts used for this study. Specifically the python scripts that analyze percent removal, radial distribution function, and coordinate density.
 
-![fig_density_heatmaps_water_cd100](https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4)
-![fig_density_heatmaps_cd_cd100](https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319)
+<div style="display: flex; justify-content: space-around;">
+  <img src="[image1_url](https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4)" alt="Image 1" width="300">
+  <img src="(https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319" alt="Image 2" width="300">
+</div>
+
