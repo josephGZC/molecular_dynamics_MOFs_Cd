@@ -6,8 +6,8 @@ The following repository contains some of the jupyter lab python scripts I used 
 
 🔖 **Sections**
 - [Overview](#overview)
+- [Objectives](#objectives)
 - [Simulation Setup](#simulation-setup)
-- [Objectives](#objeectives)
 - [Simulation Analysis](#simulation-analysis)
 - [Conclusion](#conclusion)
 
