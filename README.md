@@ -33,18 +33,20 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
     and octahedral <br/> holes of UiO-66 are represented by pink and orange spheres, respectively.
 </p>
 
-This study aims to evaluate cadmium adsorption performance of UiO-66 and its hydroxyl and carboxylic derivatives (UiO-66-(OH) and UiO-66-(COOH)) using molecular dynamics simulations, wherein the functional group attachment affects the local electron density of the MOFs and subsequent attraction with Cd. The research further seeks to analyze their adsorption mechanisms through distribution profiles, mobility analysis, radial distribution functions, and adsorption energy, providing insights into their viability for water purification applications.
-
 > 🔗 Polymers are simply the combination of single chemical units. </br>
 > * Carbohydrates are polymers of sugars. </br>
 > * DNA are polymers of nucleotides. </br>
 > * MOFs are polymers of metals and organic compounds. </br>
 > * UiO-66 (a MOF) is a polymer of Zr clusters and BDC linkers
 
+This study aims to evaluate cadmium adsorption performance of UiO-66 and its hydroxyl and carboxylic derivatives (UiO-66-(OH) and UiO-66-(COOH)) using molecular dynamics simulations, wherein the functional group attachment affects the local electron density of the MOFs and subsequent attraction with Cd. The research further seeks to analyze their adsorption mechanisms through distribution profiles, mobility analysis, radial distribution functions, and adsorption energy, providing insights into their viability for water purification applications.
+
 ## Simulation Setup
 [[back to contents](#contents)]
 
 UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(OH), UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub>. MOFs were positioned at the center of the simulation box as shown in Figure 1. A non-MOF region extends 20 Å from the negative and positive z-axes of the MOFs, which is referred to as the empty region.  For each MOF, four systems were packed with different Cd(II) number densities and equal number of water molecules.  Water molecules were randomly inserted throughout the entire system, while Cd(II) insertion was restricted to the empty region.
+
+> 🛠️ The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/1c1a2328-6dc4-4de1-bdf7-96653db6515c">
@@ -57,7 +59,13 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
     The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.
 </p>
 
-> 🛠️ The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
+> 🪟 MOFs investigated
+> UiO-66,
+> UiO-66-(OH),
+> UiO-66-(COOH),
+> UiO-66-(COOH)<sub>2</sub>,
+> UiO-66-(COOH)<sub>3</sub>,
+> and UiO-66-(COOH)<sub>4</sub>
 
 ## Simulation Analysis
 [[back to contents](#contents)]
