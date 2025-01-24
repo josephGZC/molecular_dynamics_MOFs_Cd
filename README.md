@@ -59,13 +59,14 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
     The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.
 </p>
 
-> 🔎 MOFs investigated
+> 🔎 MOFs investigated </br>
 > UiO-66, </br>
 > UiO-66-(OH), </br>
 > UiO-66-(COOH), </br>
 > UiO-66-(COOH)<sub>2</sub>, </br>
 > UiO-66-(COOH)<sub>3</sub>, </br>
-> and UiO-66-(COOH)<sub>4</sub>
+> UiO-66-(COOH)<sub>4</sub>
+> ℹ️ more oxygen (O) ➡️ more negatively charged surface ➡️ more attractive to postively charged cadmium (Cd)
 
 ## Simulation Analysis
 [[back to contents](#contents)]
