@@ -47,7 +47,7 @@ This study aims to evaluate cadmium adsorption performance of UiO-66 and its hyd
 
 > 🔎  **Listed Objectives** </br>
 > 1. Determine the potential of UiO-66 and its derivatives as adsorbents of Cd. </br>
-> 2. Identify the best-performing UiO-66 Derivative for Cd adsorption  </br>
+> 2. Identify the best-performing UiO-66 derivative for Cd adsorption  </br>
 > 3. Describe the adsorption mechanism. </br>
 
 > ℹ️ **Influence of interactions to be considered** </br>
