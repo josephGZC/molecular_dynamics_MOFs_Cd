@@ -4,13 +4,13 @@ The following repository contains some of the jupyter lab python scripts I used 
 
 ### Contents
 
-🔖 Sections
+🔖 **Sections**
 - [Overview](#overview)
 - [Simulation Setup](#simulation-setup)
 - [Simulation Analysis](#simulation-analysis)
 - [Conclusion](#conclusion)
 
-🐍 Python Scripts
+🐍 **Python Scripts**
 * [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
 * [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
 * [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb)
@@ -33,7 +33,7 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
     and octahedral <br/> holes of UiO-66 are represented by pink and orange spheres, respectively.
 </p>
 
-> ℹ️ Polymers are simply the combination of single chemical units. </br>
+> ℹ️ **Polymers are simply the combination of single chemical units.** </br>
 > * Carbohydrates are polymers of sugars. </br>
 > * DNA are polymers of nucleotides. </br>
 > * MOFs are polymers of metals and organic compounds. </br>
@@ -41,13 +41,13 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
 
 This study aims to evaluate cadmium adsorption performance of UiO-66 and its hydroxyl and carboxylic derivatives (UiO-66-(OH) and UiO-66-(COOH)) using molecular dynamics simulations, wherein the functional group attachment affects the local electron density of the MOFs and subsequent attraction with Cd. The research further seeks to analyze their adsorption mechanisms through distribution profiles, mobility analysis, radial distribution functions, and adsorption energy, providing insights into their viability for water purification applications.
 
-> ℹ️ Influence of interactions: </br>
+> ℹ️ **Influence of interactions** </br>
 > More oxygen (O) → </br>
 > More negatively charged MOF → </br>
 > More attractive to postively charged cadmium (Cd) → </br>
 > ❓More adsorption❓</br>
 
-> ℹ️ Influence of pore size: </br>
+> ℹ️ **Influence of pore size** </br>
 > More carboxylic acid (COOH) → </br>
 > Bulkier linkers → </br>
 > Less pore size → </br>
@@ -71,7 +71,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
     The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.
 </p>
 
-> 🔎 MOFs investigated </br>
+> 🔎 **MOFs investigated** </br>
 > * UiO-66 </br>
 > * UiO-66-(OH) </br>
 > * UiO-66-(COOH) </br>
