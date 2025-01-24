@@ -62,7 +62,7 @@ This study aims to evaluate cadmium adsorption performance of UiO-66 and its hyd
 > * Less pore size → </br>
 > * Less entry of Cd
 
-> ℹ️ ℹIncreasing negatively charged atoms enhances favorable interactions but reduces pore size, highlighting the trade-off between electrostatic attraction and accessibility for optimal Cd adsorption.
+> ℹ️ Increasing negatively charged atoms enhances favorable interactions but reduces pore size, highlighting the trade-off between electrostatic attraction and accessibility for optimal Cd adsorption.
 
 ## Simulation Setup
 [[back to contents](#contents)]
