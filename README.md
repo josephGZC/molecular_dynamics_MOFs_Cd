@@ -33,7 +33,7 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
     and octahedral <br/> holes of UiO-66 are represented by pink and orange spheres, respectively.
 </p>
 
-> 🔗 Polymers are simply the combination of single chemical units. </br>
+> ℹ️ Polymers are simply the combination of single chemical units. </br>
 > * Carbohydrates are polymers of sugars. </br>
 > * DNA are polymers of nucleotides. </br>
 > * MOFs are polymers of metals and organic compounds. </br>
@@ -46,7 +46,7 @@ This study aims to evaluate cadmium adsorption performance of UiO-66 and its hyd
 
 UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(OH), UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub>. MOFs were positioned at the center of the simulation box as shown in Figure 1. A non-MOF region extends 20 Å from the negative and positive z-axes of the MOFs, which is referred to as the empty region.  For each MOF, four systems were packed with different Cd(II) number densities and equal number of water molecules.  Water molecules were randomly inserted throughout the entire system, while Cd(II) insertion was restricted to the empty region.
 
-> 🛠️ The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
+> 🔎 The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/1c1a2328-6dc4-4de1-bdf7-96653db6515c">
@@ -59,12 +59,12 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
     The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.
 </p>
 
-> 🪟 MOFs investigated
-> UiO-66,
-> UiO-66-(OH),
-> UiO-66-(COOH),
-> UiO-66-(COOH)<sub>2</sub>,
-> UiO-66-(COOH)<sub>3</sub>,
+> 🔎 MOFs investigated
+> UiO-66, </br>
+> UiO-66-(OH), </br>
+> UiO-66-(COOH), </br>
+> UiO-66-(COOH)<sub>2</sub>, </br>
+> UiO-66-(COOH)<sub>3</sub>, </br>
 > and UiO-66-(COOH)<sub>4</sub>
 
 ## Simulation Analysis
@@ -72,7 +72,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 
 In analyzing the adsorption of the investigated MOFs, the <ins>performance of adosprtion</ins> and the <ins>mechanism of adsorption</ins> is explored. The performance was evaluated by counting the number of Cd atoms and water molecules found inside the MOFs, and subsequent calculation of  percent removal (i.e. percent of substance removed from the solution). A better-performing MOF correspond to adsorbing more Cd atoms (higher Cd percent removal) and adsoring less water molecules (lower water percent removal). Adsorption behavior was explored by looking into guest molecule (Cd or water) distribution and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files while seaborn was employed to generate plots. 
 
-> 💻 **Analysis Flow Guide**
+> 🔎 **Analysis Flow Guide**
 > * A. Determine adsorption performance from [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
 > * B. Determine guest molecule (Cd or Water) distribution [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
 > * C. Determine MOF atom interaction preference from [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb) 
