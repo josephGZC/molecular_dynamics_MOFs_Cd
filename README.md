@@ -42,9 +42,9 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
 This study aims to evaluate cadmium adsorption performance of UiO-66 and its hydroxyl and carboxylic derivatives (UiO-66-(OH) and UiO-66-(COOH)) using molecular dynamics simulations, wherein the functional group attachment affects the local electron density of the MOFs and subsequent attraction with Cd. The research further seeks to analyze their adsorption mechanisms through distribution profiles, mobility analysis, radial distribution functions, and adsorption energy, providing insights into their viability for water purification applications.
 
 > ℹ️ **Objectives** </br>
-> 1. Determine the potential of UiO-66 and its derivatives as adsorbents of Cd </br>
-> 2. Determine Which among UiO-66 derivatives would perform the best </br>
-> 3. Describe is the adsorption mechanism? </br>
+> 1. Determine the potential of UiO-66 and its derivatives as adsorbents of Cd. </br>
+> 2. Evaluate which among UiO-66 derivatives will have the best adosprtion performance. </br>
+> 3. Describe is the adsorption mechanism. </br>
 
 > ℹ️ **Influence of interactions to be considered** </br>
 > * More oxygen (O) → </br>
