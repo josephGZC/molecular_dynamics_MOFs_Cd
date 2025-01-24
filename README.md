@@ -44,12 +44,12 @@ This study aims to evaluate cadmium adsorption performance of UiO-66 and its hyd
 > ℹ️ More oxygen (O) </br>
 > → More negatively charged MOF </br>
 > → More attractive to postively charged cadmium (Cd) </br>
-> →❔More adsorption❔ </br>
+> →❓More adsorption </br>
 
 > ℹ️ More carboxylic acid (COOH) </br>
 > → Bulkier linkers </br>
 > → Less pore size </br>
-> →❔Less entry of Cd❔
+> →❓Less entry of Cd
 
 ## Simulation Setup
 [[back to contents](#contents)]
