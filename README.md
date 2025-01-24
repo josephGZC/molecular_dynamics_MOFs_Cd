@@ -30,7 +30,7 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
     <strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where zirconium, oxygen, <br/> 
     carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. <br/>
     The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral
-    and octahedral <br/> holes of UiO-66 are represented by pink and orange spheres, respectively.
+    and octahedral holes of <br/> UiO-66 are represented by pink and orange spheres, respectively.
 </p>
 
 > ℹ️ **Polymers are simply the combination of single chemical units.** </br>
