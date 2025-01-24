@@ -66,7 +66,10 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 > UiO-66-(COOH)<sub>2</sub>, </br>
 > UiO-66-(COOH)<sub>3</sub>, </br>
 > UiO-66-(COOH)<sub>4</sub> </br>
-> ℹ️ more oxygen (O) ➡️ more negatively charged surface ➡️ more attractive to postively charged cadmium (Cd)
+
+
+> ℹ️ more oxygen (O) ➡️ more negatively charged surface ➡️ more attractive to postively charged cadmium (Cd) ❔ more adsorption of Cd
+> ℹ️ more carboxylic acid (COOH) ➡️ bulkier linkers ➡️ less pore size ❔ less entry of Cd 
 
 ## Simulation Analysis
 [[back to contents](#contents)]
