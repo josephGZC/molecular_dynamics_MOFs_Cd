@@ -1,7 +1,7 @@
 # **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives using Molecular Dynamics**
 
 The following repository contains some of the jupyter lab python scripts I used in the simulation of UiO-66 and cadmium. </br>
-Each section includes brief, symbol-marked sentences (ℹ️ for information and 🔎 for procedural summaries) to help guide readers in understanding the problem variables and the questions being addressed.
+> Each section includes brief, symbol-marked sentences (ℹ️ for information and 🔎 for procedural summaries) to help guide readers in understanding the problem variables and the questions being addressed.
 
 ### Contents
 
