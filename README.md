@@ -31,9 +31,10 @@ Here’s an early preview of the selected images:
 Cadmium contamination in water sources poses significant health and environmental risks, being linked to diseases like breast and lung cancer, bronchiolitis, and cerebral infection. Considering this, constant investigation on Cd(II) removal from water is essential. Among water purification techniques, adsorption is most promising due to its cost-effectiveness, mild operating conditions, and high efficiency. 
 </p>
 <p align="justify"> 
-Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering high porosity, ultrahigh surface area, and customizable functionalities. <a href="https://doi.org/10.1021/ja8057953" target="_blank">UiO-66</a>, a Zr-based MOF with exceptional aqueous stability, has demonstrated significant potential in water treatment. Composed of Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> metal clusters connected by 1,4-benzedicarboxylic acid (BDC) linkers, UiO-66 exhibits a robust structure ideal for heavy metal adsorption. 
+Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering high porosity, ultrahigh surface area, and customizable functionalities. <a href="https://doi.org/10.1021/ja8057953" target="_blank">UiO-66</a>, a Zr-based MOF with exceptional aqueous stability, has demonstrated significant potential in water treatment. Composed of Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> metal clusters connected by 1,4-benzedicarboxylic acid (BDC) linkers (<a href="#anchor-F1">Fig. 1</a>), UiO-66 exhibits a robust structure ideal for heavy metal adsorption. 
 </p>
 
+<a name="anchor-F1"></a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5dcf5770-a601-4791-964e-0efe4f0d04ca" width="70%" alt="Fig 1" style="margin-bottom: 0px;">
   <br>
@@ -81,6 +82,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 
 > 🔎 The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
 
+<a name="anchor-F2"></a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ee0fb2d0-9840-480d-93a7-5a6e7d05bc9d" width="80%" alt="Fig 2" style="margin-bottom: 0px;">
   <br>
@@ -116,12 +118,14 @@ From all the simulations, the number of Cd(II) atoms within the MOF region and t
 > 💡 **Where the Cd atoms adsrobed to the MOFs?**
 > * Yes, Cd atoms entered the MOFs and remained there until the end of the simulation.
 
+<a name="anchor-F3"></a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2" width="80%" alt="Fig 3" style="margin-bottom: 0px;">
   <br>
   <span style="font-size: 80%;"><strong>Figure 3</strong>. Number of Cd(II) atoms adsorbed by UiO-66, UiO-66-OH, and UiO-66-COOH at different initial Cd(II) content. Specifically, the total initial count are (a-c) 100 and (d-f) 150 atoms.</span>
 </p>
 
+<a name="anchor-F4"></a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e" width="80%" alt="Fig 4" style="margin-bottom: 0px;">
   <br>
@@ -144,12 +148,14 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
 > 💡 **Which among MOFs had the lowest adsorption for water?** 
 > * UiO-66-(COOH)<sub>4</sub> consistently excluded the entry of water molecules.
 
+<a name="anchor-F5"></a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25" width="80%" alt="Fig 4" style="margin-bottom: 0px;">
   <br>
   <span style="font-size: 80%;"><strong>Figure 5</strong>. Percent removal of Cd(II) atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.</span>
 </p>
 
+<a name="anchor-F6"></a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1258490a-2e36-4652-b691-d6ceb5904bb0" width="80%" alt="Fig 4" style="margin-bottom: 0px;">
   <br>
@@ -168,24 +174,18 @@ Further inspection of the behavior of Cd and water entry into the MOFs was condu
 > 💡 **Where are the water atoms located inside the MOFs?**
 > * Water atoms penetrated all the way to the center of all the MOFs, but most are stuck at the MOF edges because of the larger size of water.
 
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319">
+<a name="anchor-F7"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319" width="80%" alt="Fig 7" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 7</strong>. Heatmap showing the distribution of Cd(II) atoms within the simulation box where initial Cd(II) count is 100 atoms. Dashed lines indicate the boundary between the empty region and the MOF: (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, (d) UiO-66-(COOH)<sub>4</sub>.</span>
 </p>
 
-<p align="center" style="font-size: 30%;">
-    <strong>Figure 7</strong>. Heatmap showing the distribution of Cd(II) atoms within the simulation box where initial <br/> 
-    Cd(II) count is 100 atoms. Dashed lines indicate the boundary between the empty region and <br/> 
-    the MOF: (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, (d) UiO-66-(COOH)<sub>4</sub>
-</p>
-
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4">
-</p>
-
-<p align="center" style="font-size: 30%;">
-    <strong>Figure 8</strong>. Heatmap showing the distribution of water atoms within the simulation box where initial <br/> 
-    Cd(II) count is 100 atoms. Dashed lines indicate the boundary between the empty region and <br/> 
-    the MOF: (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, (d) UiO-66-(COOH)<sub>4</sub>
+<a name="anchor-F8"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4" width="80%" alt="Fig 7" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 8</strong>. Heatmap showing the distribution of water atoms within the simulation box where initial Cd(II) count is 100 atoms. Dashed lines indicate the boundary between the empty region and the MOF: (a) UiO-66-(COOH), (b) UiO-66-(COOH<sub>2</sub>, (c) UiO-66-(COOH)<sub>3</sub>, (d) UiO-66-(COOH)<sub>4</sub>.</span>
 </p>
 
 ### C. MOF Atom Interaction Preference
