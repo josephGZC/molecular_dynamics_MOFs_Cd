@@ -1,32 +1,5 @@
 ![rec7B dat](https://github.com/user-attachments/assets/67dd1955-ea1a-44b9-80f4-68d788c08e5e)
 
-<a href="https://josephgzc.github.io/binary_atmospheric_nucleation/" style="text-decoration: none;">
-  <button style="padding: 10px 20px; background-color: #0078D7; color: white; border: none; border-radius: 5px; cursor: pointer;">
-    Code
-  </button>
-</a>
-
-<a href="https://josephgzc.github.io/binary_atmospheric_nucleation/" style="text-decoration: none;">
-  <button style="
-    padding: 10px 20px; 
-    background-color: #4A4A4A; 
-    color: white; 
-    border: none; 
-    border-radius: 5px; 
-    cursor: pointer; 
-    transition: background-color 0.3s;">
-    Code
-  </button>
-</a>
-
-<style>
-  button:hover {
-    background-color: black;
-  }
-</style>
-
-
-
 <a href="https://josephgzc.github.io/binary_atmospheric_nucleation/" 
    style="text-decoration: none; display: inline-block;">
   <div style="
@@ -43,26 +16,6 @@
     Code
   </div>
 </a>
-
-
-
-<a href="https://josephgzc.github.io/binary_atmospheric_nucleation/" 
-   style="text-decoration: none; display: inline-block;">
-  <div style="
-    padding: 10px 20px; 
-    background-color: #4A4A4A; 
-    color: white; 
-    text-align: center; 
-    border: none; 
-    border-radius: 5px; 
-    cursor: pointer; 
-    transition: background-color 0.3s;"
-    onmouseover="this.style.backgroundColor='black'" 
-    onmouseout="this.style.backgroundColor='#4A4A4A'">
-    BUTTON-TEXT
-  </div>
-</a>
-
 
 # **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives**
 
