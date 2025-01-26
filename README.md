@@ -23,7 +23,7 @@ Cadmium contamination in water sources poses significant health and environmenta
 
 Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering high porosity, ultrahigh surface area, and customizable functionalities. <a href="https://doi.org/10.1021/ja8057953" target="_blank">UiO-66</a>, a Zr-based MOF with exceptional aqueous stability, has demonstrated significant potential in water treatment. Composed of Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> metal clusters connected by 1,4-benzedicarboxylic acid (BDC) linkers, UiO-66 exhibits a robust structure ideal for heavy metal adsorption. 
 
-<p align="center" width="100%">
+<p align="center" width="90%">
     <img width="60%" src="https://github.com/user-attachments/assets/5dcf5770-a601-4791-964e-0efe4f0d04ca">
 </p>
 <p align="center" style="font-size: 30%;">
@@ -31,7 +31,7 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5dcf5770-a601-4791-964e-0efe4f0d04ca" width="100%" alt="Fig 1" style="margin-bottom: 0px;">
+  <img src="https://github.com/user-attachments/assets/5dcf5770-a601-4791-964e-0efe4f0d04ca" width="90%" alt="Fig 1" style="margin-bottom: 0px;">
   <br>
   <span style="font-size: 80%;"><strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.</span>
 </p>
