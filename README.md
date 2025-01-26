@@ -25,7 +25,7 @@
   }
 </style>
 
-<br>
+
 
 <a href="https://josephgzc.github.io/binary_atmospheric_nucleation/" 
    style="text-decoration: none; display: inline-block;">
@@ -44,7 +44,7 @@
   </div>
 </a>
 
-<br>
+
 
 <a href="https://josephgzc.github.io/binary_atmospheric_nucleation/" 
    style="text-decoration: none; display: inline-block;">
