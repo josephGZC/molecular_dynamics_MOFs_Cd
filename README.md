@@ -6,6 +6,25 @@
   </button>
 </a>
 
+<a href="https://josephgzc.github.io/binary_atmospheric_nucleation/" style="text-decoration: none;">
+  <button style="
+    padding: 10px 20px; 
+    background-color: #4A4A4A; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s;">
+    BUTTON-TEXT
+  </button>
+</a>
+
+<style>
+  button:hover {
+    background-color: black;
+  }
+</style>
+
 # **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives**
 
 > Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
