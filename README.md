@@ -1,6 +1,5 @@
 # **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives using Molecular Dynamics**
 
-The following repository contains some of the jupyter lab python scripts I used in the simulation of UiO-66 and cadmium. </br>
 > Each section includes brief, symbol-marked sentences (ℹ️ for information , 🔎 for procedural summaries, and 💡 for analysis summaries) to help guide readers in understanding the problem variables and the questions being addressed.
 
 ### Contents
@@ -17,32 +16,31 @@ The following repository contains some of the jupyter lab python scripts I used 
 * <a href="https://github.com/josephGZC/molecular_dynamics_MOFs_Cd/blob/main/plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb" target="_blank">Density Map</a>
 * <a href="https://github.com/josephGZC/molecular_dynamics_MOFs_Cd/blob/main/plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb" target="_blank">Radial Distribution Function</a>
 
-
-* [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
-* [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb)
-
 ## Overview
 [[back to contents](#contents)]
 
 Cadmium contamination in water sources poses significant health and environmental risks, being linked to diseases like breast and lung cancer, bronchiolitis, and cerebral infection. Considering this, constant investigation on Cd(II) removal from water is essential. Among water purification techniques, adsorption is most promising due to its cost-effectiveness, mild operating conditions, and high efficiency. 
 
-Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering high porosity, ultrahigh surface area, and customizable functionalities. [UiO-66](https://doi.org/10.1021/ja8057953), a Zr-based MOF with exceptional aqueous stability, has demonstrated significant potential in water treatment. Composed of Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> metal clusters connected by 1,4-benzedicarboxylic acid (BDC) linkers, UiO-66 exhibits a robust structure ideal for heavy metal adsorption. 
+Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering high porosity, ultrahigh surface area, and customizable functionalities. <a href="https://doi.org/10.1021/ja8057953" target="_blank">UiO-66</a>, a Zr-based MOF with exceptional aqueous stability, has demonstrated significant potential in water treatment. Composed of Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> metal clusters connected by 1,4-benzedicarboxylic acid (BDC) linkers, UiO-66 exhibits a robust structure ideal for heavy metal adsorption. 
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/5dcf5770-a601-4791-964e-0efe4f0d04ca">
 </p>
-
 <p align="center" style="font-size: 30%;">
-    <strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where zirconium, oxygen, <br/> 
-    carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. <br/>
-    The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral
-    and octahedral holes of <br/> UiO-66 are represented by pink and orange spheres, respectively.
+    <strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.
 </p>
 
-> ℹ️ **Polymers are simply the combination of single chemical units.** </br>
-> * Carbohydrates are polymers of sugars. </br>
-> * DNA are polymers of nucleotides. </br>
-> * MOFs are polymers of metals and organic compounds. </br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5dcf5770-a601-4791-964e-0efe4f0d04ca" width="400" alt="Fig 4" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 14px;"><strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.</span>
+</p>
+
+
+> ℹ️ **Polymers are simply the combination of single chemical units.**
+> * Carbohydrates are polymers of sugars.
+> * DNA are polymers of nucleotides. 
+> * MOFs are polymers of metals and organic compounds. 
 > * UiO-66 (a MOF) is a polymer of Zr clusters and BDC linkers
 
 ## Objectives
