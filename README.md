@@ -4,6 +4,8 @@
 
 ### Contents
 
+https://www.flaticon.com/free-icon-font/trash_3917378
+
 🔖 **Sections**
 - [Overview](#overview)
 - [Objectives](#objectives)
