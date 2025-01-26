@@ -67,7 +67,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 > 🔎 The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5dcf5770-a601-4791-964e-0efe4f0d04ca" width="60%" alt="Fig 1" style="margin-bottom: 0px;">
+  <img src="https://github.com/user-attachments/assets/ee0fb2d0-9840-480d-93a7-5a6e7d05bc9d" width="60%" alt="Fig 1" style="margin-bottom: 0px;">
   <br>
   <span style="font-size: 80%;"><strong>Figure 2</strong>. System snapshot showing UiO-66 packed with water (light blue sphere connected to white spheres) and Cd(II) (yellow spheres). In the MOF region, zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.</span>
 </p>
