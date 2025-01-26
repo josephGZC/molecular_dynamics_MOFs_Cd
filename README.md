@@ -105,8 +105,8 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of ad
 
 From all the simulations, the number of Cd(II) atoms within the MOF region and the empty region were plotted as a function of time as shown in Fig. 3 and 4. This was presented for all MOFs across varying initial Cd(II) concentration. The results show that after an abrupt entry of Cd(II) into the MOF region within the 1-ns mark, further adsorption showed only minor fluctuations. In all cases, Cd(II) concentration remained consistently higher in the MOF region compared to the empty region until the simulation endpoint. These observations demonstrate that Cd(II) has an affinity for adsorption onto the MOFs, suggesting that their passage into the MOF is driven by more than just the initial concentration gradient.
 
-> ✅ Where the Cd atoms adsrobed to the MOFs? </br>
-> ➡️ Yes, Cd atoms entered the MOFs and remained there until the end of the simulation.
+> 💡 Where the Cd atoms adsrobed to the MOFs?
+> * Yes, Cd atoms entered the MOFs and remained there until the end of the simulation.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2">
@@ -130,14 +130,14 @@ When calculating percent removal in the system with initial Cd(II) atoms equal t
 
 Besides percent removal of Cd(II), percent removal of water was also explored as shown in Fig. 6. In this case, lower water adsorption is the desired outcome. Interestingly, while a distinct trend was not evident for Cd(II) percent removal across the incremental increase of carboxylic acid groups, a notable decrease in water adsorption was observed from UiO-66-(COOH) to UiO-66-(COOH)<sub>4</sub>. Given the significant difference in water percent removal across the investigated MOFs, UiO-66-(COOH)<sub>4</sub> is particularly effective at adsorbing Cd(II) while minimizing water uptake.
 
-> ✅ Are the MOFs suitable for Cd adsoprtion? </br>
-> ➡️ Yes, becase Cd adsorption of all MOFs were high. </br>
+> 💡 Are the MOFs suitable for Cd adsoprtion? </br>
+> * Yes, becase Cd adsorption of all MOFs were high. </br>
 
-> ✅ Which among MOFs had highest adsorption for Cd? </br>
-> ➡️ UiO-66-(COOH)<sub>4</sub> achieved slightly better results. </br>
+> 💡 Which among MOFs had highest adsorption for Cd? </br>
+> * UiO-66-(COOH)<sub>4</sub> achieved slightly better results. </br>
 
-> ✅ Which among MOFs had the lowest adsorption for water? </br>
-> ➡️ UiO-66-(COOH)<sub>4</sub> consistently excluded the entry of water molecules.
+> 💡 Which among MOFs had the lowest adsorption for water? </br>
+> * UiO-66-(COOH)<sub>4</sub> consistently excluded the entry of water molecules.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25">
@@ -163,11 +163,11 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
 
 Further inspection of the behavior of Cd and water entry into the MOFs was conducted by preparing distribution heatmaps as shown in Fig. 7 and 8. The distribution of Cd(II) (Fig. 7) shows that the atoms penetrate to the center of all the MOFs. However, no clear trend was observed in the amount of Cd(II) atoms entering the MOF with the number of carboxylic acid substitutions on the BDC linkers. Meanwhile, the distribution of water molecules (Fig.8) indicates a decrease in water reaching the center of the MOFs from UiO-66-COOH to UiO-66-(COOH)<sub>4</sub>. The high concentration of water at the MOF edges suggests an attraction to the MOF region, though the pore size of the MOFs influences the extent of entry. The results suggest that Cd(II) penetration is not significantly influenced by the decreasing pore size from UiO-66-COOH to UiO-66-(COOH)<sub>4</sub>, which is likely due to its small ionic radius. In contrast, the observed reduction in water entry into the MOFs is likely attributed to the relatively larger molecular diameter (2.8 Å ) of water, which limits its ability to penetrate the narrower pores. 
 
-> ✅ Where are the Cd atoms located inside the MOFs? </br>
-> ➡️ Cd atoms penetrated all the way to the center of all the MOFs. <br/>
+> 💡 Where are the Cd atoms located inside the MOFs? </br>
+> * Cd atoms penetrated all the way to the center of all the MOFs. <br/>
 
-> ✅ Where are the water atoms located inside the MOFs? </br>
-> ➡️ Water atoms penetrated all the way to the center of all the MOFs, but most are stuck at the MOF edges because of the larger size of water.
+> 💡 Where are the water atoms located inside the MOFs? </br>
+> * Water atoms penetrated all the way to the center of all the MOFs, but most are stuck at the MOF edges because of the larger size of water.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319">
@@ -193,11 +193,11 @@ Further inspection of the behavior of Cd and water entry into the MOFs was condu
 
 Radial distribution function of Cd(II) against all the carboxylic acid derivatives of UiO-66 were prepared as shown in Fig. 9. Across all RDF plots, the closest peak appears around 1.7 Å, corresponding to the oxygen atoms in the carboxylic group (labeled O2 in Fig. 9). This observation suggests that Cd(II) tends to remain in close proximity to this group, which indicates that electrostatic interaction between Cd(II) and oxygen atoms has significant contribution in the adsorption process. Cd(II) was also found to be within proximity of the oxygen atom in the metal nodes (represented as O1) but at a lower probability. This observation becomes less distinct with increasing carboxylic substitution as suggested by the gradual decrease of the blue and orange peaks in Fig. 9, which further supports the preference of Cd(II) towards the oxygen atoms of the carboxylic groups in the BDC linkers.
 
-> ✅ Which atom of the MOF is Cd closest to? </br>
-> ➡️ Oxygen atoms of BDC linkers </br>
+> 💡 Which atom of the MOF is Cd closest to? </br>
+> * Oxygen atoms of BDC linkers </br>
 
-> ✅ What is the likely interaction between Cd and O? </br>
-> ➡️ Close proximity of postively charged Cd to negatively charged O atoms suggest electrostatic itneraction.
+> 💡 What is the likely interaction between Cd and O? </br>
+> * Close proximity of postively charged Cd to negatively charged O atoms suggest electrostatic itneraction.
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4">
