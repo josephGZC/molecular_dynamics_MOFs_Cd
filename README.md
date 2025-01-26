@@ -25,6 +25,7 @@
   }
 </style>
 
+<br>
 <a href="https://josephgzc.github.io/binary_atmospheric_nucleation/" 
    style="text-decoration: none; display: inline-block;">
   <div style="
@@ -39,6 +40,24 @@
     onmouseover="this.style.backgroundColor='black'" 
     onmouseout="this.style.backgroundColor='#4A4A4A'">
     Code
+  </div>
+</a>
+
+<br>
+<a href="https://josephgzc.github.io/binary_atmospheric_nucleation/" 
+   style="text-decoration: none; display: inline-block;">
+  <div style="
+    padding: 10px 20px; 
+    background-color: #4A4A4A; 
+    color: white; 
+    text-align: center; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s;"
+    onmouseover="this.style.backgroundColor='black'" 
+    onmouseout="this.style.backgroundColor='#4A4A4A'">
+    BUTTON-TEXT
   </div>
 </a>
 
