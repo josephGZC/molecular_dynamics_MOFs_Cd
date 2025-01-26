@@ -13,7 +13,11 @@ The following repository contains some of the jupyter lab python scripts I used 
 - [Conclusion](#conclusion)
 
 🐍 **Python Scripts**
-* <a href="https://username.github.io/repository-name/plot-script_percent-removal/jup_rep_dyn_plots.ipynb" target="_blank">Percent Removal</a>
+* <a href="https://github.com/josephGZC/molecular_dynamics_MOFs_Cd/blob/main/plot-script_percent-removal/jup_rep_dyn_plots.ipynb" target="_blank">Percent Removal</a>
+* <a href="https://github.com/josephGZC/molecular_dynamics_MOFs_Cd/blob/main/plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb" target="_blank">Density Map</a>
+* <a href="https://github.com/josephGZC/molecular_dynamics_MOFs_Cd/blob/main/plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb" target="_blank">Radial Distribution Function</a>
+
+
 * [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
 * [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb)
 
