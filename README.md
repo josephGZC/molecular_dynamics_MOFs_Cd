@@ -1,6 +1,6 @@
 ![Untitled (1920 x 800 px) (3)](https://github.com/user-attachments/assets/aa2d7c28-444b-4896-8119-24fa2cc38763)
 
-# **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives using Molecular Dynamics**
+# **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives**
 
 > Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
 > <br>
