@@ -46,21 +46,21 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
 
 This study aims to evaluate cadmium adsorption performance of UiO-66 and its hydroxyl and carboxylic derivatives (UiO-66-(OH) and UiO-66-(COOH)) using molecular dynamics simulations, wherein the functional group attachment affects the local electron density of the MOFs and subsequent attraction with Cd. The research further seeks to analyze their adsorption mechanisms through distribution profiles, mobility analysis, radial distribution functions, and adsorption energy, providing insights into their viability for water purification applications.
 
-> 🔎  **Listed Objectives** </br>
-> 1. Determine the potential of UiO-66 and its derivatives as adsorbents of Cd. </br>
-> 2. Identify the best-performing UiO-66 derivative for Cd adsorption  </br>
-> 3. Describe the adsorption mechanism. </br>
+> 🔎  **Listed Objectives** 
+> 1. Determine the potential of UiO-66 and its derivatives as adsorbents of Cd. 
+> 2. Identify the best-performing UiO-66 derivative for Cd adsorption.
+> 3. Describe the adsorption mechanism. 
 
-> ℹ️ **Influence of interactions to be considered** </br>
-> * More oxygen (O) → </br>
-> * More negatively charged MOF → </br>
-> * More attractive to postively charged cadmium (Cd) → </br>
+> ℹ️ **Influence of interactions to be considered** 
+> * More oxygen (O) → 
+> * More negatively charged MOF → 
+> * More attractive to postively charged cadmium (Cd) →
 > * More Cd adsorption
 
-> ℹ️ **Influence of pore size to be considered** </br>
-> * More carboxylic acid (COOH) → </br>
-> * Bulkier linkers → </br>
-> * Less pore size → </br>
+> ℹ️ **Influence of pore size to be considered** 
+> * More carboxylic acid (COOH) → 
+> * Bulkier linkers → 
+> * Less pore size → 
 > * Less entry of Cd
 
 > ℹ️ Increasing negatively charged atoms enhances favorable interactions but reduces pore size, highlighting the trade-off between electrostatic attraction and accessibility for optimal Cd adsorption.
@@ -83,13 +83,13 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
     The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.
 </p>
 
-> 🔎 **MOFs investigated** </br>
-> * UiO-66 </br>
-> * UiO-66-(OH) </br>
-> * UiO-66-(COOH) </br>
-> * UiO-66-(COOH)<sub>2</sub> </br>
-> * UiO-66-(COOH)<sub>3</sub> </br>
-> * UiO-66-(COOH)<sub>4</sub> </br>
+> 🔎 **MOFs investigated** 
+> * UiO-66 
+> * UiO-66-(OH) 
+> * UiO-66-(COOH) 
+> * UiO-66-(COOH)<sub>2</sub> 
+> * UiO-66-(COOH)<sub>3</sub> 
+> * UiO-66-(COOH)<sub>4</sub> 
 
 ## Simulation Analysis
 [[back to contents](#contents)]
@@ -105,7 +105,7 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of ad
 
 From all the simulations, the number of Cd(II) atoms within the MOF region and the empty region were plotted as a function of time as shown in Fig. 3 and 4. This was presented for all MOFs across varying initial Cd(II) concentration. The results show that after an abrupt entry of Cd(II) into the MOF region within the 1-ns mark, further adsorption showed only minor fluctuations. In all cases, Cd(II) concentration remained consistently higher in the MOF region compared to the empty region until the simulation endpoint. These observations demonstrate that Cd(II) has an affinity for adsorption onto the MOFs, suggesting that their passage into the MOF is driven by more than just the initial concentration gradient.
 
-> 💡 Where the Cd atoms adsrobed to the MOFs?
+> **💡 Where the Cd atoms adsrobed to the MOFs?**
 > * Yes, Cd atoms entered the MOFs and remained there until the end of the simulation.
 
 <p align="center" width="100%">
@@ -130,13 +130,13 @@ When calculating percent removal in the system with initial Cd(II) atoms equal t
 
 Besides percent removal of Cd(II), percent removal of water was also explored as shown in Fig. 6. In this case, lower water adsorption is the desired outcome. Interestingly, while a distinct trend was not evident for Cd(II) percent removal across the incremental increase of carboxylic acid groups, a notable decrease in water adsorption was observed from UiO-66-(COOH) to UiO-66-(COOH)<sub>4</sub>. Given the significant difference in water percent removal across the investigated MOFs, UiO-66-(COOH)<sub>4</sub> is particularly effective at adsorbing Cd(II) while minimizing water uptake.
 
-> 💡 Are the MOFs suitable for Cd adsoprtion? </br>
-> * Yes, becase Cd adsorption of all MOFs were high. </br>
+> 💡 **Are the MOFs suitable for Cd adsoprtion?**
+> * Yes, becase Cd adsorption of all MOFs were high.
 
-> 💡 Which among MOFs had highest adsorption for Cd? </br>
-> * UiO-66-(COOH)<sub>4</sub> achieved slightly better results. </br>
+> 💡 **Which among MOFs had highest adsorption for Cd?**
+> * UiO-66-(COOH)<sub>4</sub> achieved slightly better results.
 
-> 💡 Which among MOFs had the lowest adsorption for water? </br>
+> 💡 **Which among MOFs had the lowest adsorption for water?** 
 > * UiO-66-(COOH)<sub>4</sub> consistently excluded the entry of water molecules.
 
 <p align="center" width="100%">
