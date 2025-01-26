@@ -41,7 +41,7 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
   <span style="font-size: 80%;"><strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.</span>
 </p>
 
-> ℹ️ **Polymers are simply the combination of single chemical units.**
+> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; **Polymers are simply the combination of single chemical units.**
 > * Carbohydrates are polymers of sugars.
 > * DNA are polymers of nucleotides. 
 > * MOFs are polymers of metals and organic compounds. 
@@ -59,19 +59,19 @@ This study aims to evaluate cadmium adsorption performance of UiO-66 and its hyd
 > 2. Identify the best-performing UiO-66 derivative for Cd adsorption.
 > 3. Describe the adsorption mechanism. 
 
-> ℹ️ **Influence of interactions to be considered** 
+> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; **Influence of interactions to be considered** 
 > * More oxygen (O) → 
 > * More negatively charged MOF → 
 > * More attractive to postively charged cadmium (Cd) →
 > * More Cd adsorption
 
-> ℹ️ **Influence of pore size to be considered** 
+> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; **Influence of pore size to be considered** 
 > * More carboxylic acid (COOH) → 
 > * Bulkier linkers → 
 > * Less pore size → 
 > * Less entry of Cd
 
-> ℹ️ Increasing negatively charged atoms enhances favorable interactions but reduces pore size, highlighting the trade-off between electrostatic attraction and accessibility for optimal Cd adsorption.
+> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; Increasing negatively charged atoms enhances favorable interactions but reduces pore size, highlighting the trade-off between electrostatic attraction and accessibility for optimal Cd adsorption.
 
 ## Simulation Setup
 [[back to contents](#contents)]
@@ -80,7 +80,7 @@ This study aims to evaluate cadmium adsorption performance of UiO-66 and its hyd
 UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(OH), UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub>. MOFs were positioned at the center of the simulation box as shown in Figure 1. A non-MOF region extends 20 Å from the negative and positive z-axes of the MOFs, which is referred to as the empty region.  For each MOF, four systems were packed with different Cd(II) number densities and equal number of water molecules.  Water molecules were randomly inserted throughout the entire system, while Cd(II) insertion was restricted to the empty region.
 </p>
 
-> 🔎 The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
+> <img src="https://github.com/user-attachments/assets/104f5bba-400c-45a1-a1b1-19e9a223078a" width="15" height="15"> &nbsp; The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
 
 <a name="anchor-F2"></a>
 <p align="center">
@@ -89,7 +89,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
   <span style="font-size: 80%;"><strong>Figure 2</strong>. System snapshot showing UiO-66 packed with water (light blue sphere connected to white spheres) and Cd(II) (yellow spheres). In the MOF region, zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.</span>
 </p>
 
-> 🔎 **MOFs investigated** 
+> <img src="https://github.com/user-attachments/assets/104f5bba-400c-45a1-a1b1-19e9a223078a" width="15" height="15"> &nbsp; **MOFs investigated** 
 > * UiO-66 
 > * UiO-66-(OH) 
 > * UiO-66-(COOH) 
@@ -104,7 +104,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 In analyzing the adsorption of the investigated MOFs, the <ins>performance of adosprtion</ins> and the <ins>mechanism of adsorption</ins> is explored. The performance was evaluated by counting the number of Cd atoms and water molecules found inside the MOFs, and subsequent calculation of  percent removal (i.e. percent of substance removed from the solution). A better-performing MOF correspond to adsorbing more Cd atoms (higher Cd percent removal) and adsoring less water molecules (lower water percent removal). Adsorption behavior was explored by looking into guest molecule (Cd or water) distribution and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files while seaborn was employed to generate plots. 
 </p>
 
-> 🔎 **Analysis Flow Guide**
+> <img src="https://github.com/user-attachments/assets/104f5bba-400c-45a1-a1b1-19e9a223078a" width="15" height="15"> &nbsp; **Analysis Flow Guide**
 > * A. Determine adsorption performance from [Percent Removal](plot-script_percent-removal/jup_rep_dyn_plots.ipynb)
 > * B. Determine guest molecule (Cd or Water) distribution [Density Map](plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb)
 > * C. Determine MOF atom interaction preference from [Radial Distribution Function](plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb) 
@@ -115,7 +115,7 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of ad
 From all the simulations, the number of Cd(II) atoms within the MOF region and the empty region were plotted as a function of time as shown in Fig. 3 and 4. This was presented for all MOFs across varying initial Cd(II) concentration. The results show that after an abrupt entry of Cd(II) into the MOF region within the 1-ns mark, further adsorption showed only minor fluctuations. In all cases, Cd(II) concentration remained consistently higher in the MOF region compared to the empty region until the simulation endpoint. These observations demonstrate that Cd(II) has an affinity for adsorption onto the MOFs, suggesting that their passage into the MOF is driven by more than just the initial concentration gradient.
 </p>
 
-> 💡 **Where the Cd atoms adsrobed to the MOFs?**
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **Where the Cd atoms adsrobed to the MOFs?**
 > * Yes, Cd atoms entered the MOFs and remained there until the end of the simulation.
 
 <a name="anchor-F3"></a>
@@ -139,13 +139,13 @@ When calculating percent removal in the system with initial Cd(II) atoms equal t
 Besides percent removal of Cd(II), percent removal of water was also explored as shown in Fig. 6. In this case, lower water adsorption is the desired outcome. Interestingly, while a distinct trend was not evident for Cd(II) percent removal across the incremental increase of carboxylic acid groups, a notable decrease in water adsorption was observed from UiO-66-(COOH) to UiO-66-(COOH)<sub>4</sub>. Given the significant difference in water percent removal across the investigated MOFs, UiO-66-(COOH)<sub>4</sub> is particularly effective at adsorbing Cd(II) while minimizing water uptake.
 </p>
 
-> 💡 **Are the MOFs suitable for Cd adsoprtion?**
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **Are the MOFs suitable for Cd adsoprtion?**
 > * Yes, becase Cd adsorption of all MOFs were high.
 
-> 💡 **Which among MOFs had highest adsorption for Cd?**
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **Which among MOFs had highest adsorption for Cd?**
 > * UiO-66-(COOH)<sub>4</sub> achieved slightly better results.
 
-> 💡 **Which among MOFs had the lowest adsorption for water?** 
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **Which among MOFs had the lowest adsorption for water?** 
 > * UiO-66-(COOH)<sub>4</sub> consistently excluded the entry of water molecules.
 
 <a name="anchor-F5"></a>
@@ -168,10 +168,10 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
 Further inspection of the behavior of Cd and water entry into the MOFs was conducted by preparing distribution heatmaps as shown in Fig. 7 and 8. The distribution of Cd(II) (Fig. 7) shows that the atoms penetrate to the center of all the MOFs. However, no clear trend was observed in the amount of Cd(II) atoms entering the MOF with the number of carboxylic acid substitutions on the BDC linkers. Meanwhile, the distribution of water molecules (Fig.8) indicates a decrease in water reaching the center of the MOFs from UiO-66-COOH to UiO-66-(COOH)<sub>4</sub>. The high concentration of water at the MOF edges suggests an attraction to the MOF region, though the pore size of the MOFs influences the extent of entry. The results suggest that Cd(II) penetration is not significantly influenced by the decreasing pore size from UiO-66-COOH to UiO-66-(COOH)<sub>4</sub>, which is likely due to its small ionic radius. In contrast, the observed reduction in water entry into the MOFs is likely attributed to the relatively larger molecular diameter (2.8 Å ) of water, which limits its ability to penetrate the narrower pores. 
 </p>
 
-> 💡 **Where are the Cd atoms located inside the MOFs?** 
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **Where are the Cd atoms located inside the MOFs?** 
 > * Cd atoms penetrated all the way to the center of all the MOFs. 
 
-> 💡 **Where are the water atoms located inside the MOFs?**
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **Where are the water atoms located inside the MOFs?**
 > * Water atoms penetrated all the way to the center of all the MOFs, but most are stuck at the MOF edges because of the larger size of water.
 
 <a name="anchor-F7"></a>
@@ -194,10 +194,10 @@ Further inspection of the behavior of Cd and water entry into the MOFs was condu
 Radial distribution function of Cd(II) against all the carboxylic acid derivatives of UiO-66 were prepared as shown in Fig. 9. Across all RDF plots, the closest peak appears around 1.7 Å, corresponding to the oxygen atoms in the carboxylic group (labeled O2 in Fig. 9). This observation suggests that Cd(II) tends to remain in close proximity to this group, which indicates that electrostatic interaction between Cd(II) and oxygen atoms has significant contribution in the adsorption process. Cd(II) was also found to be within proximity of the oxygen atom in the metal nodes (represented as O1) but at a lower probability. This observation becomes less distinct with increasing carboxylic substitution as suggested by the gradual decrease of the blue and orange peaks in Fig. 9, which further supports the preference of Cd(II) towards the oxygen atoms of the carboxylic groups in the BDC linkers.
 </p>
 
-> 💡 **Which atom of the MOF is Cd closest to?** 
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **Which atom of the MOF is Cd closest to?** 
 > * Oxygen atoms of BDC linkers
 
-> 💡 **What is the likely interaction between Cd and O?**
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **What is the likely interaction between Cd and O?**
 > * Close proximity of postively charged Cd to negatively charged O atoms suggest electrostatic itneraction.
 
 <a name="anchor-F9"></a>
