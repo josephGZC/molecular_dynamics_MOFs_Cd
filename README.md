@@ -1,3 +1,18 @@
+<a href="https://josephgzc.github.io/molecular_dynamics_MOFs_Cd/code" style="text-decoration: none; display: inline-block;">
+  <div style="
+    padding: 5px 10px; 
+    background-color: #4A4A4A; 
+    color: white; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s;" 
+    onmouseover="this.style.backgroundColor='black'" 
+    onmouseout="this.style.backgroundColor='#4A4A4A'">
+    Code
+  </div>
+</a>
+
+
 ![rec7B dat](https://github.com/user-attachments/assets/67dd1955-ea1a-44b9-80f4-68d788c08e5e)
 
 <a href="https://josephgzc.github.io/molecular_dynamics_MOFs_Cd/code" 
