@@ -1,22 +1,28 @@
 # **Investigating the Removal of Cadmium from Water through UiO-66 Derivatives using Molecular Dynamics**
 
-> Each section includes brief, symbol-marked sentences (ℹ️ for information , 🔎 for procedural summaries, and 💡 for analysis summaries) to help guide readers in understanding the problem variables and the questions being addressed.
+> Each section includes brief, symbol-marked sentences to help guide readers in understanding the problem variables and the questions being addressed. <br>
+> <br>
+> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; for information <br>
+> <img src="https://github.com/user-attachments/assets/104f5bba-400c-45a1-a1b1-19e9a223078a" width="15" height="15"> &nbsp; for procedural summaries <br>
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; for analysis summaries
 
 ### Contents
 
-https://www.flaticon.com/free-icon-font/trash_3917378
-
-🔖 **Sections**
+<img src="https://github.com/user-attachments/assets/0bb79cc2-8c42-4829-b936-d93c6da8a132" width="15" height="15"> &nbsp; **Sections**
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Simulation Setup](#simulation-setup)
 - [Simulation Analysis](#simulation-analysis)
 - [Conclusion](#conclusion)
-
-🐍 **Python Scripts**
+  
+<img src="https://github.com/user-attachments/assets/2b105adf-f364-4152-8292-f7d1ae77f75c" width="15" height="15"> &nbsp; **Python Scripts**
 * <a href="https://github.com/josephGZC/molecular_dynamics_MOFs_Cd/blob/main/plot-script_percent-removal/jup_rep_dyn_plots.ipynb" target="_blank">Percent Removal</a>
 * <a href="https://github.com/josephGZC/molecular_dynamics_MOFs_Cd/blob/main/plot-script_heatmap-coordinate/jup_rep_heatmap.ipynb" target="_blank">Density Map</a>
 * <a href="https://github.com/josephGZC/molecular_dynamics_MOFs_Cd/blob/main/plot-script_radial-distribution-function/jup_rep_rdf_plots.ipynb" target="_blank">Radial Distribution Function</a>
+
+<img src="https://github.com/user-attachments/assets/126c7386-894b-4890-af87-775472fd30f7" width="15" height="15"> &nbsp; **Graph Preview**
+
+Here’s an early preview of the selected images:
 
 ## Overview
 [[back to contents](#contents)]
