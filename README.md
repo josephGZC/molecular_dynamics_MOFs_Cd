@@ -74,7 +74,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 > 🔎 The setup was prepared to answer the question, will Cd remain in water or will it go inside the MOFs?
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee0fb2d0-9840-480d-93a7-5a6e7d05bc9d" width="80%" alt="Fig 1" style="margin-bottom: 0px;">
+  <img src="https://github.com/user-attachments/assets/ee0fb2d0-9840-480d-93a7-5a6e7d05bc9d" width="80%" alt="Fig 2" style="margin-bottom: 0px;">
   <br>
   <span style="font-size: 80%;"><strong>Figure 2</strong>. System snapshot showing UiO-66 packed with water (light blue sphere connected to white spheres) and Cd(II) (yellow spheres). In the MOF region, zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster nodes Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra.</span>
 </p>
@@ -108,22 +108,16 @@ From all the simulations, the number of Cd(II) atoms within the MOF region and t
 > 💡 **Where the Cd atoms adsrobed to the MOFs?**
 > * Yes, Cd atoms entered the MOFs and remained there until the end of the simulation.
 
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2" width="80%" alt="Fig 3" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 3</strong>. Number of Cd(II) atoms adsorbed by UiO-66, UiO-66-OH, and UiO-66-COOH at different initial Cd(II) content. Specifically, the total initial count are (a-c) 100 and (d-f) 150 atoms.</span>
 </p>
 
-<p align="center" style="font-size: 30%;">
-    <strong>Figure 3</strong>. Number of Cd(II) atoms adsorbed by UiO-66, UiO-66-OH, and UiO-66-COOH at different <br/> 
-    initial Cd(II) content. Specifically, the total initial count are (a-c) 100 and (d-f) 150 atoms.
-</p>
-
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e">
-</p>
-
-<p align="center" style="font-size: 30%;">
-    <strong>Figure 4</strong>. Number of Cd(II) atoms adsorbed by UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and <br/> 
-    UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content. Specifically, the total initial count <br/> are (a-c) 100 and (d-f) 150 atoms.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e" width="80%" alt="Fig 4" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 4</strong>. Number of Cd(II) atoms adsorbed by UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content. Specifically, the total initial count <br/> are (a-c) 100 and (d-f) 150 atoms.</span>
 </p>
 
 <p align="justify"> 
@@ -142,24 +136,16 @@ Besides percent removal of Cd(II), percent removal of water was also explored as
 > 💡 **Which among MOFs had the lowest adsorption for water?** 
 > * UiO-66-(COOH)<sub>4</sub> consistently excluded the entry of water molecules.
 
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25" width="80%" alt="Fig 4" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 5</strong>. Percent removal of Cd(II) atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.</span>
 </p>
 
-<p align="center" style="font-size: 30%;">
-    <strong>Figure 5</strong>. Percent removal of Cd(II) atoms by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, <br/> 
-    and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, <br/> 
-    and (d) 150 atoms.
-</p>
-
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/user-attachments/assets/1258490a-2e36-4652-b691-d6ceb5904bb0">
-</p>
-
-<p align="center" style="font-size: 30%;">
-    <strong>Figure 6</strong>. Percent removal of water molecules by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, <br/> 
-    and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, <br/> 
-    and (d) 150 atoms.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1258490a-2e36-4652-b691-d6ceb5904bb0" width="80%" alt="Fig 4" style="margin-bottom: 0px;">
+  <br>
+  <span style="font-size: 80%;"><strong>Figure 6</strong>. Percent removal of water molecules by UiO-66-(COOH), UiO-66-(COOH)<sub>2</sub>, UiO-66-(COOH)<sub>3</sub>, and UiO-66-(COOH)<sub>4</sub> at different initial Cd(II) content: (a) 25 atoms, (b) 50 atoms, (c) 100 atoms, and (d) 150 atoms.</span>
 </p>
 
 ### B. Guest Molecule Distribution 
