@@ -5,7 +5,7 @@
 ## Summary
 
 ### Problem
-Cadmium Contamination in Water Sources
+Cadmium contamination in water sources
 
 ### Objectives 
 * Determine the potential of UiO-66 and its derivatives as adsorbents of Cd. 
@@ -22,9 +22,9 @@ Simulate the following systems with cadmium and water:
 * UiO-66-(COOH)<sub>4</sub>
 
 ### Insights
-UiO-66 and its derivatives were able to remove at least 60% of cadmium from water, showing the potential of this MOF for Cd removal. 
-UiO-66-(COOH)<sub>4</sub> removed 88% cadmium from water, which is why it is highly recommended to proceed to synthesis of this MOF for further testing
-Cd interacts with the MOF via electrostatic interaction on the added oxygen atoms, which is why in functionalization, more oxygen atoms are favorable.
+UiO-66 and its derivatives were able to remove at least 60% of cadmium from water, showing the potential of this MOF for Cd removal. <br>
+UiO-66-(COOH)<sub>4</sub> removed 88% cadmium from water, which is why it is highly recommended to proceed to synthesis of this MOF for further testing. <br>
+Cd interacts with the MOF via electrostatic interaction on the added oxygen atoms, which is why in functionalization, more oxygen atoms are favorable. <br>
 
 ### Output
 <img src="https://github.com/user-attachments/assets/2b105adf-f364-4152-8292-f7d1ae77f75c" width="15" height="15"> &nbsp; **Python Scripts**
