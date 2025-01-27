@@ -43,7 +43,7 @@ Graph Preview
   <a href="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2" 
      style="display: inline-block; margin-bottom: 10px;">
     <img src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2" 
-         width="500" 
+         width="480" 
          height="300" 
          style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" 
          alt="Fig 3">
@@ -51,7 +51,7 @@ Graph Preview
   <a href="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e" 
      style="display: inline-block; margin-bottom: 10px;">
     <img src="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e" 
-         width="500" 
+         width="480" 
          height="300" 
          style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" 
          alt="Fig 4">
@@ -59,7 +59,7 @@ Graph Preview
   <a href="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25" 
      style="display: inline-block; margin-bottom: 10px;">
     <img src="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25" 
-         width="450" 
+         width="420" 
          height="300" 
          style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" 
          alt="Fig 5">
@@ -67,7 +67,7 @@ Graph Preview
   <a href="https://github.com/user-attachments/assets/1258490a-2e36-4652-b691-d6ceb5904bb0" 
      style="display: inline-block; margin-bottom: 10px;">
     <img src="https://github.com/user-attachments/assets/1258490a-2e36-4652-b691-d6ceb5904bb0" 
-         width="450" 
+         width="420" 
          height="300" 
          style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" 
          alt="Fig 6">
@@ -75,7 +75,7 @@ Graph Preview
   <a href="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319" 
      style="display: inline-block; margin-bottom: 10px;">
     <img src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319" 
-         width="450" 
+         width="420" 
          height="300" 
          style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" 
          alt="Fig 7">
@@ -83,7 +83,7 @@ Graph Preview
   <a href="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4" 
      style="display: inline-block; margin-bottom: 10px;">
     <img src="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4" 
-         width="450" 
+         width="420" 
          height="300" 
          style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" 
          alt="Fig 8">
@@ -91,7 +91,7 @@ Graph Preview
   <a href="https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4" 
      style="display: inline-block; margin-bottom: 10px;">
     <img src="https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4" 
-         width="450" 
+         width="420" 
          height="300" 
          style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" 
          alt="Fig 9">
