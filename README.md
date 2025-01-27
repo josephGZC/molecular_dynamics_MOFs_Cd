@@ -8,8 +8,8 @@
 Cadmium contamination in water sources
 
 ### Objectives 
-* Determine the potential of UiO-66 and its derivatives as adsorbents of Cd. 
-* Identify the best-performing UiO-66 derivative for Cd adsorption.
+* Determine the potential of the metal-organic framework (MOF) called UiO-66 and its derivatives as adsorbents of cadmium. 
+* Identify the best-performing UiO-66 derivative for cadmium adsorption.
 * Describe the adsorption mechanism. 
 
 ### Methods 
@@ -22,7 +22,7 @@ Simulate the following systems with cadmium and water:
 * UiO-66-(COOH)<sub>4</sub>
 
 ### Insights
-UiO-66 and its derivatives were able to remove at least 60% of cadmium from water, showing the potential of this MOF for Cd removal. <br>
+UiO-66 and its derivatives were able to remove at least 60% of cadmium from water, showing the potential of this MOF for cadmium removal. <br>
 UiO-66-(COOH)<sub>4</sub> removed 88% cadmium from water, which is why it is highly recommended to proceed to synthesis of this MOF for further testing. <br>
 Cd interacts with the MOF via electrostatic interaction on the added oxygen atoms, which is why in functionalization, more oxygen atoms are favorable. <br>
 
