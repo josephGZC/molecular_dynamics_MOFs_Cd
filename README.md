@@ -22,9 +22,9 @@ Simulate the following MOFs with cadmium and water:
 * UiO-66-(COOH)<sub>4</sub>
 
 ### Insights
-* UiO-66 and its derivatives were able to remove at least 60% of cadmium from water, showing the potential of this MOF for cadmium removal. 
-* UiO-66-(COOH)<sub>4</sub> removed 88% cadmium from water, which is why it is highly recommended to proceed to synthesis of this MOF for further testing. 
-* Cd interacts with the MOF via electrostatic interaction on the added oxygen atoms, which is why in functionalization, more oxygen atoms are favorable. 
+* All the investigated MOFs removed over 60% of cadmium from water, which demonstrates their strong potential for cadmium remediation.
+* UiO-66-(COOH)<sub>4</sub> achieved an 88% removal rate, making it the most promising candidate for synthesis and further testing.
+* Cadmium primarily adsorbs through electrostatic interactions with the oxygen atoms of MOFs, indicating that incorporating additional oxygen-rich groups can further enhance cadmium capture.
 
 ### Output
 **Python Scripts** <img src="https://github.com/user-attachments/assets/2b105adf-f364-4152-8292-f7d1ae77f75c" width="15" height="15"> &nbsp;
