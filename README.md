@@ -21,6 +21,11 @@ Simulate the following MOFs with cadmium and water:
 * UiO-66-(COOH)<sub>3</sub> 
 * UiO-66-(COOH)<sub>4</sub>
 
+### Insights
+* All the investigated MOFs removed over 60% of cadmium from water, which demonstrates their strong potential for cadmium remediation.
+* UiO-66-(COOH)<sub>4</sub> achieved an 88% removal rate, making it the most promising candidate for synthesis and further testing.
+* Cadmium primarily adsorbs through electrostatic interactions with the oxygen atoms of MOFs, indicating that incorporating additional oxygen-rich groups can further enhance cadmium capture.
+
 ### Output
 
 Python Scripts
@@ -31,11 +36,6 @@ Python Scripts
 Graph Preview 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; background-color: #f8f9fa; border-radius: 5px;"> <a href="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2" style="display: inline-block; margin-bottom: 10px;"> 
   <img src="https://github.com/user-attachments/assets/3be08deb-8fae-43bd-9d48-711d785f31c2" width="150" height="100" style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" alt="Fig 3"> </a> <a href="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e" style="display: inline-block; margin-bottom: 10px;"> <img src="https://github.com/user-attachments/assets/eaeba421-311c-4059-9bff-c03796fe4c2e" width="150" height="100" style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" alt="Fig 4"> </a> <a href="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25" style="display: inline-block; margin-bottom: 10px;"> <img src="https://github.com/user-attachments/assets/3f794224-7353-4167-bc96-c42e494f7a25" width="150" height="100" style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" alt="Fig 5"> </a> <a href="https://github.com/user-attachments/assets/1258490a-2e36-4652-b691-d6ceb5904bb0" style="display: inline-block; margin-bottom: 10px;"> <img src="https://github.com/user-attachments/assets/1258490a-2e36-4652-b691-d6ceb5904bb0" width="150" height="100" style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" alt="Fig 6"> </a> <a href="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319" style="display: inline-block; margin-bottom: 10px;"> <img src="https://github.com/user-attachments/assets/4d497791-bf1e-4e5c-a425-7e78cd2ef319" width="150" height="100" style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" alt="Fig 7"> </a> <a href="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4" style="display: inline-block; margin-bottom: 10px;"> <img src="https://github.com/user-attachments/assets/100c6703-440a-447f-a2d3-0558fccb75b4" width="150" height="100" style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" alt="Fig 8"> </a> <a href="https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4" style="display: inline-block; margin-bottom: 10px;"> <img src="https://github.com/user-attachments/assets/f5347795-22cd-4001-812c-af8d54f2a0b4" width="150" height="100" style="border-radius:10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" alt="Fig 9"> </a> </div>
-
-### Insights
-* All the investigated MOFs removed over 60% of cadmium from water, which demonstrates their strong potential for cadmium remediation.
-* UiO-66-(COOH)<sub>4</sub> achieved an 88% removal rate, making it the most promising candidate for synthesis and further testing.
-* Cadmium primarily adsorbs through electrostatic interactions with the oxygen atoms of MOFs, indicating that incorporating additional oxygen-rich groups can further enhance cadmium capture.
 
 # Technical Report
 
