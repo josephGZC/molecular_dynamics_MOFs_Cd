@@ -13,7 +13,7 @@ Cadmium contamination in water sources
 * Describe the adsorption mechanism. 
 
 ### Methods 
-Simulate the following systems with cadmium and water:
+Simulate the following MOFs with cadmium and water:
 * UiO-66
 * UiO-66-(OH) 
 * UiO-66-(COOH) 
