@@ -160,7 +160,7 @@ This study aims to evaluate cadmium adsorption performance of UiO-66 and its hyd
 > <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; **Influence of interactions to be considered** 
 > * More oxygen (O) → 
 > * More negatively charged MOF → 
-> * More attractive to postively charged cadmium (Cd) →
+> * More attractive to positively charged cadmium (Cd) →
 > * More Cd adsorption
 
 > <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; **Influence of pore size to be considered** 
@@ -296,7 +296,7 @@ Radial distribution function of Cd(II) against all the carboxylic acid derivativ
 > * Oxygen atoms of BDC linkers
 
 > <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **What is the likely interaction between Cd and O?**
-> * Close proximity of postively charged Cd to negatively charged O atoms suggest electrostatic itneraction.
+> * Close proximity of positively charged Cd to negatively charged O atoms suggests electrostatic interaction.
 
 <a name="anchor-F9"></a>
 <p align="center">
