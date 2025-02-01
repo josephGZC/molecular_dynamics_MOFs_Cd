@@ -140,11 +140,8 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
   <span style="font-size: 80%;"><strong>Figure 1</strong>. The components (left) and unit cell (right) of UiO-66, where zirconium, oxygen, carbon, and hydrogen atoms are represented by blue, red, dark gray, and light gray spheres, respectively. The metal cluster Zr<sub>6</sub>O<sub>4</sub>(OH)<sub>4</sub> are represented by blue polyhedra. The tetrahedral and octahedral holes of UiO-66 are represented by pink and orange spheres, respectively.</span>
 </p>
 
-> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; **Polymers are simply the combination of single chemical units.**
-> * Carbohydrates are polymers of sugars.
-> * DNA are polymers of nucleotides. 
-> * MOFs are polymers of metals and organic compounds. 
-> * UiO-66 (a MOF) is a polymer of Zr clusters and BDC linkers
+> <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; **What does the name UiO-66 mean?**
+> Naming of MOFs are often baed on the university it was first synthesiszed at. In this case, UiO-66 was first synthesized by Professor Kristian P. Lillerud and his research group at the University of Oslo (UiO) in 2008. 
 
 <a name="objectives-actual"></a>
 ## Objectives
