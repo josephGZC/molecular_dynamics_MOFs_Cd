@@ -9,7 +9,7 @@
 ### Background 
 
 <p align="justify"> 
-Cadmium contamination in water sources poses significant health and environmental risks, highlighting the need for continuous investigation into Cd(II) removal. Metal-organic frameworks (MOFs) are man-made microstructures that resemble cages, designed to trap and store molecules. Among them, <a href="https://doi.org/10.1021/ja8057953" target="_blank">UiO-66</a>, a zirconium-based MOF with exceptional aqueous stability, has demonstrated significant potential in water treatment. Given its tunable chemistry, functionalizing its linkers with additional groups such as –OH and –COOH could further enhance its ability to remove Cd(II) from water, making UiO-66 derivatives promising candidates for improving adsorption performance.
+Cadmium (Cd) contamination in water sources poses significant health and environmental risks, highlighting the need for continuous investigation into Cd removal. Metal-organic frameworks (MOFs) are man-made microstructures that resemble cages, designed to trap and store molecules. Among them, <a href="https://doi.org/10.1021/ja8057953" target="_blank">UiO-66</a>, a zirconium-based MOF with exceptional aqueous stability, has demonstrated significant potential in water treatment. Given its tunable chemistry, functionalizing its linkers with additional groups such as –OH and –COOH could further enhance its ability to remove Cd(II) from water, making UiO-66 derivatives promising candidates for improving adsorption performance.
 </p>
 
 ### Goals 
