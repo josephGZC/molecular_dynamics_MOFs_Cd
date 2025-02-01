@@ -141,7 +141,7 @@ Metal-organic frameworks (MOFs) have emerged as promising adsorbents, offering h
 </p>
 
 > <img src="https://github.com/user-attachments/assets/970c2929-5c71-4213-9a77-416d7307e4e9" width="15" height="15"> &nbsp; **What does the name UiO-66 mean?** 
-> * Naming of MOFs are often baed on the university it was first synthesiszed at.
+> * Naming of MOFs are often based on the university it was first synthesiszed at.
 > * In this case, UiO-66 was first synthesized by Professor Kristian P. Lillerud and his research group at the University of Oslo (UiO) in 2008. 
 
 <a name="objectives-actual"></a>
@@ -199,7 +199,7 @@ UiO-66 and several of its derivatives where investigated. Specifically, UiO-66-(
 [[back to contents](#contents)]
 
 <p align="justify"> 
-In analyzing the adsorption of the investigated MOFs, the <ins>performance of adosprtion</ins> and the <ins>mechanism of adsorption</ins> is explored. The performance was evaluated by counting the number of Cd atoms and water molecules found inside the MOFs, and subsequent calculation of  percent removal (i.e. percent of substance removed from the solution). A better-performing MOF correspond to adsorbing more Cd atoms (higher Cd percent removal) and adsoring less water molecules (lower water percent removal). Adsorption behavior was explored by looking into guest molecule (Cd or water) distribution and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files while seaborn was employed to generate plots. 
+In analyzing the adsorption of the investigated MOFs, the <ins>performance of adosprtion</ins> and the <ins>mechanism of adsorption</ins> is explored. The performance was evaluated by counting the number of Cd atoms and water molecules found inside the MOFs, and subsequent calculation of  percent removal (i.e. percent of substance removed from the solution). A better-performing MOF correspond to adsorbing more Cd atoms (higher Cd percent removal) and adsorbing less water molecules (lower water percent removal). Adsorption behavior was explored by looking into guest molecule (Cd or water) distribution and MOF atom preference (other analysis such as adsorption energy and mean square displacement were not included here). Several python scripts were created to analyze the trajectory output from the simulations. Pandas was used to process CSV files while seaborn was employed to generate plots. 
 </p>
 
 > <img src="https://github.com/user-attachments/assets/104f5bba-400c-45a1-a1b1-19e9a223078a" width="15" height="15"> &nbsp; **Analysis Flow Guide**
@@ -213,7 +213,7 @@ In analyzing the adsorption of the investigated MOFs, the <ins>performance of ad
 From all the simulations, the number of Cd(II) atoms within the MOF region and the empty region were plotted as a function of time as shown in <a href="#anchor-F3">Fig. 3</a> and <a href="#anchor-F4">Fig. 4</a>. This was presented for all MOFs across varying initial Cd(II) concentration. The results show that after an abrupt entry of Cd(II) into the MOF region within the 1-ns mark, further adsorption showed only minor fluctuations. In all cases, Cd(II) concentration remained consistently higher in the MOF region compared to the empty region until the simulation endpoint. These observations demonstrate that Cd(II) has an affinity for adsorption onto the MOFs, suggesting that their passage into the MOF is driven by more than just the initial concentration gradient.
 </p>
 
-> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **Where the Cd atoms adsrobed to the MOFs?**
+> <img src="https://github.com/user-attachments/assets/7a87286b-2c51-44e7-8ed2-ce709c7837ad" width="15" height="15"> &nbsp; **Did the Cd atoms adsorb onto the MOFs?**
 > * Yes, Cd atoms entered the MOFs and remained there until the end of the simulation.
 
 <a name="anchor-F3"></a>
